@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome 🌱
 
-Welcome to a digital garden! This is my collection of imperfect notes, essays, and ideas growing slowly over time. A multi-year project of information sensemaking. Generally speaking, this virtual space will share thoughts on entrepreneurship, health, history, philosophy, startups, and technology. It will use bi-directional linking - a lot of internal links - to connect notes together. Feel free to connect with me on Twitter [here](https://twitter.com/brandonspiess) 👋
+Welcome to a digital garden! This is my collection of imperfect notes, essays, and ideas growing slowly over time: a multi-year project of information sensemaking. Generally speaking, this virtual space will share thoughts on entrepreneurship, history, philosophy, startups, and technology. It will use bi-directional linking - a lot of internal links - to connect notes together. Feel free to connect with me on Twitter [here](https://twitter.com/brandonspiess) 👋
 
 <img src="/assets/digital-garden_web.jpg"/>
 
