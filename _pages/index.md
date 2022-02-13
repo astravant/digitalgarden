@@ -4,23 +4,6 @@ title: Home
 id: home
 permalink: /
 ---
-The Garden
-              </Title2>
-            </a>
-          </Link>
-          <Subheader>
-            A digital garden is a collection of imperfect notes, essays, and
-            ideas growing slowly over time.{" "}
-            <ReadmoreLink href="/garden-history">
-              Learn more
-              <ArrowRightIcon width="18" height="18" />
-            </ReadmoreLink>
-          </Subheader>
-        </motion.section>
-        <GardenSection
-          variants={collectionAnimation}
-          initial="hidden"
-          animate="visible"
 
 # The Garden 🌱
 
@@ -30,9 +13,7 @@ A [digital garden](https://github.com/MaggieAppleton/digital-gardeners) is a col
 
 <img src="/assets/digital-garden_web.jpg"/>
 
-This digital garden template is ==free, open-source==, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@brandonspiess)](https://twitter.com/brandonspiess). 👋
+This digital garden template is ==free, open-source==, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). 👋
 
 <style>
   .wrapper {
