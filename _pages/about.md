@@ -4,9 +4,12 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+Hi, Brandon Spiess here.
 
-Feel free to tell the world about what you love!
+I focus on the intersection of artifical intelligence and decentralized systems.
+
+Before my current project, I started a few companies in the crowdfunding, digital marketing, and e-commerce spaces.
 
 [LinkedIn](https://www.linkedin.com/in/brandonspiess/)
+
 [Twitter](https://twitter.com/brandonspiess)
