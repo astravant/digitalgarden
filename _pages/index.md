@@ -31,7 +31,6 @@ This digital garden template is free, open-source, and [available on GitHub here
 - [The Creative Process](https://openspaceofdemocracy.files.wordpress.com/2017/01/baldwin-creative-process.pdf) by James Baldwin
 - [The Lily: Evolution, Play, and the Power of a Free Society](https://books.google.com/books/about/The_Lily.html?id=tF4rocKg4egC) by Daniel Cloud
 
-https://twitter.com/ilyasut/status/1491554478243258368
 
 # Books
 
