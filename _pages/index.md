@@ -31,6 +31,8 @@ This digital garden template is free, open-source, and [available on GitHub here
 - [The Creative Process](https://openspaceofdemocracy.files.wordpress.com/2017/01/baldwin-creative-process.pdf) by James Baldwin
 - [The Lily: Evolution, Play, and the Power of a Free Society](https://books.google.com/books/about/The_Lily.html?id=tF4rocKg4egC) by Daniel Cloud
 
+https://twitter.com/ilyasut/status/1491554478243258368
+
 # Books
 
 - [Why Information Grows: The Evolution of Order, from Atoms to Economies](https://www.amazon.com/Why-Information-Grows-Evolution-Economies/dp/0465096840/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by César Hidalgo
