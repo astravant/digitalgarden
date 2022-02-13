@@ -90,8 +90,6 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 - [80,000 Hours](https://80000hours.org/latest/)
 
-<img src="/assets/sciofi.jpg"/>
-
 
 <style>
   .wrapper {
