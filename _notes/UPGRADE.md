@@ -1,5 +1,5 @@
 ---
-title: A note about cats
+title: UPGRADE
 ---
 
 This is a second note with a poem with cats. 
