@@ -32,7 +32,7 @@ This digital garden template is free, open-source, and [available on GitHub here
 - [The Lily: Evolution, Play, and the Power of a Free Society](https://books.google.com/books/about/The_Lily.html?id=tF4rocKg4egC) by Daniel Cloud
 
 
-# Books
+# Library
 
 - [Why Information Grows: The Evolution of Order, from Atoms to Economies](https://www.amazon.com/Why-Information-Grows-Evolution-Economies/dp/0465096840/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by César Hidalgo
 - [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=sr_1_1?crid=2IDMYTLNEJ71D&dchild=1&keywords=the+innovators+walter+isaacson&qid=1615951892&s=books&sprefix=the+innov%2Cstripbooks%2C249&sr=1-1) by Walter Isaacson
