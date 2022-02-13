@@ -11,6 +11,8 @@ I work in technology and focus on the intersection of artificial intelligence an
 I have interests ranging across biology, economics, technology, longevity, crypto, and others.
 
 
-[LinkedIn](https://www.linkedin.com/in/brandonspiess/)
+Follow me on [Twitter](https://twitter.com/brandonspiess)
 
-[Twitter](https://twitter.com/brandonspiess)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/brandonspiess/)
+
+Donate to [GiveCrypto.org](https://givecrypto.org/) - a non-profit that is financially empowering people by distributing cryptocurrency globally.
