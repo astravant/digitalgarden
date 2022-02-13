@@ -6,12 +6,9 @@ permalink: /
 ---
 
 # The Garden 🌱
-<Subheader>
-A digital garden is a collection of imperfect notes, essays, and ideas growing slowly over time.
-</Subheader>
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  A [digital garden](https://github.com/MaggieAppleton/digital-gardeners) is a collection of imperfect notes, essays, and ideas growing slowly over time.
 </p>
 
 <img src="/assets/digital-garden_web.jpg"/>
