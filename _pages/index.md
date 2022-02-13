@@ -7,9 +7,9 @@ permalink: /
 
 # Welcome 🌱
 
-<img src="/assets/digital-garden_web.jpg"/>
+Welcome to a digital garden! This is my collection of imperfect notes, essays, and ideas growing slowly over time. A multi-year project of information sensemaking. Generally speaking, this virtual space will share thoughts on entrepreneurship, health, history, philosophy, startups, and technology. It will use bi-directional linking - a lot of internal links - to connect notes together. Feel free to connect with me on Twitter [here](https://twitter.com/brandonspiess) 👋
 
-Welcome to a digital garden! This is my collection of imperfect notes, essays, and ideas growing slowly over time. A multi-year project of information sensemaking. Generally speaking, this virtual space will discuss thoughts on startups, technology, philosophy, and productivity. It will use bi-directional linking - a lot of internal links - to connect notes together. Feel free to connect with me on Twitter [here](https://twitter.com/brandonspiess) 👋
+<img src="/assets/digital-garden_web.jpg"/>
 
 The best way to get started on understanding digital gardens is to read this [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) by [Tom Critchlow](https://tomcritchlow.com/).
 
