@@ -1,5 +1,5 @@
 ---
-title: Consistency is key
+title: LIBRARY
 ---
 
 Show up. Do the work. Be consistent.
