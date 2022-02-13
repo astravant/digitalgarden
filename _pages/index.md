@@ -45,6 +45,40 @@ This digital garden template is free, open-source, and [available on GitHub here
 - [The Information: A History, A Theory, A Flood](https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235) by James Gleick
 - [Nonzero: The Logic of Human Destiny](https://www.amazon.com/dp/0679758941/?coliid=I3VPCTJCAIQ8VX&colid=88FV17LRWLPN&psc=1&ref_=gv_ov_lig_pi_dp) by Robert Wright
 
+          </section>
+          <section style={{ gridArea: "library" }}>
+            <Link href="/library">
+              <a href="/library">
+                <SectionHeader>
+                  Library
+                  <ArrowRightIcon width="18" height="18" />
+                </SectionHeader>
+              </a>
+            </Link>
+            <Subheader>
+              Books I’ve read and books I like the idea of having read.
+            </Subheader>
+            <div
+              style={{
+                display: "grid",
+                gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))",
+                gridGap: "var(--space-2xs)",
+              }}
+            >
+              {bookData.slice(0, 8).map((book, i) => (
+                <BookCard
+                  small
+                  subtitle={book.subtitle}
+                  key={i}
+                  cover={book.cover}
+                  title={book.title}
+                  author={book.author}
+                  link={book.link}
+                />
+              ))}
+            </div>
+          </section>
+
 <style>
   .wrapper {
     max-width: 46em;
