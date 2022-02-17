@@ -15,6 +15,6 @@ Follow me on [Twitter](https://twitter.com/brandonspiess)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/brandonspiess/)
 
-Check out [RadicalxChange](https://www.radicalxchange.org/) - a community of activists, artists, entrepreneurs, and scholars committed to using mechanism design to inspire radical social change.
+Check out [RadicalxChange](https://www.radicalxchange.org/) - a global movement dedicated to reimagining the building blocks of democracy and markets in order to uphold fairness, plurality, and meaningful participation in a rapidly changing world.
 
 Donate to [GiveCrypto.org](https://givecrypto.org/) - a non-profit that is financially empowering people by distributing cryptocurrency globally.
