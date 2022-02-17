@@ -12,5 +12,5 @@ title: UPGRADE
 
 [[BODY]]
 
-#### Fitness, Nutrition, Supplements, 
+#### Fitness, Nutrition, Supplements 
 
