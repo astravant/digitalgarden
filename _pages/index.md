@@ -64,6 +64,10 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 Check out [[resources]] for additional links.
 
+[[Upgrade]]
+
+
+
 
 <style>
   .wrapper {
