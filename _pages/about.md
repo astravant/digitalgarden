@@ -6,7 +6,7 @@ permalink: /about
 
 Hi, Brandon Spiess here.
 
-I work in technology and focus on the intersection of artificial intelligence and decentralized systems.
+I focus on the intersection of artificial intelligence, decentralized systems, and social technology. 
 
 I have interests ranging across biology, economics, technology, longevity, crypto, and others.
 
