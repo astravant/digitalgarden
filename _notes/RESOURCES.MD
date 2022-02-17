@@ -2,15 +2,15 @@
 TITLE: RESOURCES
 ---
 
-- [Big Think](https://bigthink.com/)
+- [Big Think](https://bigthink.com/) - Actionable lessons from the world's greatest thinkers and doers.
 
-- [WAIT BUT WHY](https://waitbutwhy.com/archive)
+- [WAIT BUT WHY](https://waitbutwhy.com/archive) - A popular long-form, stick-figure-illustrated blog about almost everything.
 
-- [Sam Altman](https://blog.samaltman.com/)
+- [Sam Altman](https://blog.samaltman.com/) - Sam Altman is an American entrepreneur, investor, programmer, and blogger. He is the CEO of OpenAI and the former president of Y Combinator.
 
-- [Not Boring Co by Packy McCormick](https://www.notboring.co/)
+- [Not Boring Co by Packy McCormick](https://www.notboring.co/) - Web3 and Startup Strategy, but not boring. Click to read Not Boring by Packy McCormick, a Substack publication with hundreds of thousands of readers.
 
-- [Farnam Street Blog](https://fs.blog/)
+- [Farnam Street Blog](https://fs.blog/) - Timeless lessons and insights that help you think better, learn faster, and make smart decisions.
 
 - [Alexey Guzey](https://guzey.com/)
 
