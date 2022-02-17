@@ -4,13 +4,13 @@ title: UPGRADE
 
 [[SPIRITUAL]]
 
-### Meditations, Psychedelics, Psychology
+#### Meditations, Psychedelics, Psychology
 
 [[MIND]]
 
-### Mindfulness, Minimalism, Productivity, Routines, Self-Development
+#### Mindfulness, Minimalism, Productivity, Routines, Self-Development
 
 [[BODY]]
 
-### Fitness, Nutrition, Supplements, 
+#### Fitness, Nutrition, Supplements, 
 
