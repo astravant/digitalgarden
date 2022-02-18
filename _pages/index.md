@@ -27,7 +27,7 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 # [[NOTES]]
 
-## Loose notes on things I don’t entirely understand yet.
+### Loose notes on things I don’t entirely understand yet.
 
 
 # Recent Reading
