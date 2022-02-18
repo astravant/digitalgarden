@@ -29,6 +29,10 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 [[State as a Service]]
 
+[[Turn it up to Eleven]]
+
+[[Collecting Labels]]
+
 # [[Notes]]
 
 [[Crypto Resources]]
@@ -36,6 +40,8 @@ This digital garden template is free, open-source, and [available on GitHub here
 [[DAO]]
 
 [[Hip-Hop Philosophy]]
+
+[[The Busy Trap]]
 
 
 # Recent Reading
