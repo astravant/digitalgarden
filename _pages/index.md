@@ -21,6 +21,15 @@ Additional reading on digital gardens:
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). 👋
 
+# [[ESSAYS]]
+
+## Opinionated, longform narrative writing
+
+# [[NOTES]]
+
+## Loose notes on things I don’t entirely understand yet.
+
+
 # Recent Reading
 - [Gaby's Web3 Reading List](https://www.notion.so/f7050e62461143d49345e7b46eb5576b)
 - [A Journey To GameB](https://medium.com/@memetic007/a-journey-to-gameb-4fb13772bcf3)
