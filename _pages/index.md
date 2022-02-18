@@ -27,6 +27,8 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 [[A Computational Universe]]
 
+[[State as a Service]]
+
 # [[Notes]]
 
 [[Crypto Resources]]
