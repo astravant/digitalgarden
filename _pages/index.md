@@ -26,6 +26,10 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 # [[Notes]]
 
+[[Crypto Resources]]
+
+[[DAO]]
+
 
 # Recent Reading
 - [Gaby's Web3 Reading List](https://www.notion.so/f7050e62461143d49345e7b46eb5576b)
