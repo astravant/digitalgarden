@@ -82,15 +82,9 @@ Check out [[resources]] for additional links.
 
 ### [[Spiritual]]
 
-https://twitter.com/naval/status/1486878108066082819
-
 ### [[Mind]]
 
-https://twitter.com/orangebook_/status/1493572756520243205
-
 ### [[Body]]
-
-https://twitter.com/naval/status/1492942680606883841
 
 
 
