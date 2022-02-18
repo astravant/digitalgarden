@@ -73,11 +73,11 @@ Check out [[resources]] for additional links.
 
 # [[Upgrade]]
 
-### =[[Spiritual]]=
+### ==[[Spiritual]]==
 
-### =[[Mind]]=
+### ==[[Mind]]==
 
-### =[[Body]]=
+### ==[[Body]]==
 
 
 
