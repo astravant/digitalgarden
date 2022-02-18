@@ -81,6 +81,8 @@ https://twitter.com/orangebook_/status/1493572756520243205
 
 ### [[Body]]
 
+https://twitter.com/naval/status/1492942680606883841
+
 
 
 
