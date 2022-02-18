@@ -75,8 +75,6 @@ Check out [[resources]] for additional links.
 
 ### [[Spiritual]]
 
-https://twitter.com/EckhartTolle/status/1493416272012328961?cxt=HHwWgoCqsfuL17kpAAAA
-
 ### [[Mind]]
 
 ### [[Body]]
