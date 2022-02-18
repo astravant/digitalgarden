@@ -52,7 +52,7 @@ This digital garden template is free, open-source, and [available on GitHub here
 - [The Information: A History, A Theory, A Flood](https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235) by James Gleick
 - [Nonzero: The Logic of Human Destiny](https://www.amazon.com/dp/0679758941/?coliid=I3VPCTJCAIQ8VX&colid=88FV17LRWLPN&psc=1&ref_=gv_ov_lig_pi_dp) by Robert Wright
 
-# Resources
+# [[Resources]]
 
 - [Big Think](https://bigthink.com/)
 
