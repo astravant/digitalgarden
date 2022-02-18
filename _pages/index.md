@@ -23,6 +23,9 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 # [[Essays]]
 
+[[The Butterfly Effect]]
+
+[[A Computational Universe]]
 
 # [[Notes]]
 
