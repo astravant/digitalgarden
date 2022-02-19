@@ -108,6 +108,13 @@ Check out [[resources]] for additional links.
 
 ### [[Mind]]
 
+[38 Lessons that took me 38 Years to Learn](https://jswilder16.medium.com/38-lessons-that-took-me-38-years-to-learn-13ad58cdd05)
+
+[How To Get More Done In 3 Hours Than Most Do In A Week](https://entrepreneurshandbook.co/how-to-get-more-done-in-3-hours-than-most-do-in-a-week-c5bcdcff801e)
+
+[How To Read Academic Content Once and Remember it Forever](https://betterhumans.pub/how-to-read-academic-content-once-and-remember-it-forever-e44f26d82566)
+
+
 ### [[Body]]
 
 
