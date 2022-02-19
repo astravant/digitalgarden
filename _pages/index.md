@@ -90,12 +90,14 @@ Check out [[resources]] for additional links.
 
 # [[Upgrade]]
 
-### [[Spiritual]]
+### [[Spirit]]
 
 ### [[Mind]]
 
 ### [[Body]]
 
+
+# [[Procrastinate]]
 
 
 
