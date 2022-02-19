@@ -1,7 +1,7 @@
 
 Obsession, winning, and balance do not belong in the same sentence. There is nothing normal or typical about the lifestyle of a real winner.  You are exhausted and impatient and on the edge all the time, even when you rest. Winning wants all of your time and attention. There is no balance for those who want to win. Stop looking for it, and stop feeling guilty about your lack of it. 
 
-Winning wants all of you. It demands obsession. The whole work-life balance thing doesn’t really mean a lot to people who badly want to win. When you are obsessed with achieving greatness in one area, that usually comes at the expense of most of the things everyone considers normal and healthy. Being the best requires hard sacrifices, and it is never going to be easy. There is no perfect future where you can have greatness in your field, and a great family life, and great holidays, and loads of sleep, and loads of friends. 
+Winning wants all of you. It demands obsession. ==The whole work-life balance thing doesn’t really mean a lot to people who badly want to win.== When you are obsessed with achieving greatness in one area, that usually comes at the expense of most of the things everyone considers normal and healthy. Being the best requires hard sacrifices, and it is never going to be easy. There is no perfect future where you can have greatness in your field, and a great family life, and great holidays, and loads of sleep, and loads of friends. 
 
 Winning doesn’t care if you dont have time. Winning expects you to make time. If you’ve only got so much time to achieve what you want to achieve, all you can do is choose what you focus on. If you want to win that badly, all of your focus should be spent doing what it takes to win. 
 
