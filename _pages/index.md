@@ -39,9 +39,13 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 [[DAO]]
 
+[[Universal Basic Assets]]
+
 [[Hip-Hop Philosophy]]
 
 [[The Busy Trap]]
+
+[[Shower Thoughts]]
 
 
 # Recent Reading
