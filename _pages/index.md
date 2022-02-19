@@ -43,6 +43,10 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 [[Hip-Hop Philosophy]]
 
+[[Dataism]]
+
+[[2100]]
+
 [[The Busy Trap]]
 
 [[Shower Thoughts]]
