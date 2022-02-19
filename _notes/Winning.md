@@ -14,3 +14,5 @@ Truly confident people cannot be broken. They have been beaten down and broken o
 Every day, your time grows shorter. The writer’s message is simple: Do everything. Experience everything you want. Go and achieve your goal. Do not settle or slow or pace yourself. Push. Life is a daily campaign against laziness and the urge to quit. 
 
 if you do what everyone else is doing, you will end up like everyone else.
+
+Extreme people get extreme results. 
