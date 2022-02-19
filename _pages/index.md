@@ -100,6 +100,12 @@ Check out [[resources]] for additional links.
 
 ### [[Spirit]]
 
+[We Spend Our Lives Constantly Asking “What do I want?” It Doesn’t Work](https://medium.com/change-your-mind/we-spend-our-lives-constantly-asking-what-do-i-want-it-doesnt-work-8c187b506d7d)
+
+[On the Power of Recognizing I Don’t Exist](https://annamercury.medium.com/on-the-profound-power-of-recognizing-i-dont-exist-b7a01147fb08)
+
+[5 Spiritual Books That Changed My Life](https://medium.com/@jchelene23/5-spiritual-books-that-changed-my-life-2ca385856841)
+
 ### [[Mind]]
 
 ### [[Body]]
