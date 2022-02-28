@@ -96,32 +96,6 @@ This digital garden template is free, open-source, and [available on GitHub here
 Check out [[resources]] for additional links.
 
 
-# [[Upgrade]]
-
-### [[Spirit]]
-
-[We Spend Our Lives Constantly Asking “What do I want?” It Doesn’t Work](https://medium.com/change-your-mind/we-spend-our-lives-constantly-asking-what-do-i-want-it-doesnt-work-8c187b506d7d)
-
-[On the Power of Recognizing I Don’t Exist](https://annamercury.medium.com/on-the-profound-power-of-recognizing-i-dont-exist-b7a01147fb08)
-
-[5 Spiritual Books That Changed My Life](https://medium.com/@jchelene23/5-spiritual-books-that-changed-my-life-2ca385856841)
-
-### [[Mind]]
-
-[38 Lessons that took me 38 Years to Learn](https://jswilder16.medium.com/38-lessons-that-took-me-38-years-to-learn-13ad58cdd05)
-
-[How To Get More Done In 3 Hours Than Most Do In A Week](https://entrepreneurshandbook.co/how-to-get-more-done-in-3-hours-than-most-do-in-a-week-c5bcdcff801e)
-
-[How To Read Academic Content Once and Remember it Forever](https://betterhumans.pub/how-to-read-academic-content-once-and-remember-it-forever-e44f26d82566)
-
-
-### [[Body]]
-
-
-# [[Procrastinate]]
-
-
-
 <style>
   .wrapper {
     max-width: 46em;
