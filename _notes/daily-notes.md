@@ -8,7 +8,7 @@ title: Daily Notes
 
 ## January 8, 2022
 
-- When does wisdom of crowds become madness of crowds?
+==When does wisdom of crowds become madness of crowds?==
 
 - Democracy should provide checks and balances on the elites - how good of a job are they doing? 
 
@@ -17,7 +17,7 @@ title: Daily Notes
 
 > Nobody’s smart enough to design a society; you’ve got to experiment.
 
-If we can connect brains to an AGI (+ our quantified body data), will they know better than us what we should do?
+- Q: If we can connect brains to an AGI (+ our quantified body data), will they know better than us what we should do?
 
 - Perhaps there is less patriotism today bc/ the current generations have not had to sacrifice anything for the country. It sounds counterintuitive but if you make sacrifices and give things up for someone or something, we feel more drawn to and connected to that thing.
 
@@ -45,11 +45,9 @@ _“You never change things by fighting the existing reality. To change somethin
 
 ## January 1, 2022
 
-When long-term goal setting, I am learning it's more important to optimize for skills, systems, and traits - opposed to objects or simple pass fail metrics. Focus on becoming a person with skills that will simply attract the 'things you want.' Focus on systems and processes versus things and objects.
+==When long-term goal setting, I am learning it's more important to optimize for skills, systems, and traits - opposed to objects or simple pass fail metrics. Focus on becoming a person with skills that will simply attract the 'things you want.' Focus on systems and processes versus things and objects.==
 
 _"With a system, you are less likely to miss one opportunity because you were too focused on another. With a system, you are always scanning for any opportunity."_
-
-Instead of 'I want a billion dollar company' - what systems, processes, R&D, workflows, etc.  do billion dollar companies have? Focus on building these and the 'billion dollar company' will occur as a by-product. 
 
 Instead of 'I want to be a millionaire' - what traits, skills, and habits do millionaires have? Focus on upgrading your mindset via books, conferences, networking, optimize your mind, practice persuasion, writing, influence, invest in assets, acquire new skills, learn accounting, work ethic, travel to expand perspective, build a business, etc. and you will become a millionaire as a by-product. 
 
@@ -71,14 +69,13 @@ In 2022, food, transportation, and especially housing prices will rise, and whil
 
 ## December 31, 2021
 
-Earn with your mind, not your time. 
-
-I believe the future lies in the convergence of AI and crypto. 
-
+==Earn with your mind, not your time.==
 
 ## December 29, 2021
 
-- The concept of the 'double thank you' has really clicked with me - by paying others to do things that are not your core competence, you are stimulating the economy and helping people.
+- The concept of the 'double thank you' has really clicked with me. By paying others to do things that are not your core competence, you are stimulating the economy and helping people.
+
+[The Double Thank You of the Market](https://fee.org/articles/the-double-thank-you-of-the-market/)
 
 ## December 14, 2021
 
@@ -86,7 +83,7 @@ I believe the future lies in the convergence of AI and crypto.
 
 ## December 11, 2021 
 
-> “If you woke up tomorrow morning and found out you had ten years to live, what would you stop doing?”
+==If you woke up tomorrow morning and found out you had ten years to live, what would you stop doing?==
 
 ## December 10, 2021 
 
@@ -113,12 +110,12 @@ I believe the future lies in the convergence of AI and crypto.
 
 > By what I call the narrative fallacy, the media distorts our mental map of the world by feeding us what can be made into a story that can be squeezed into our minds.
 
-> People focus on role models; it is more effective to find antimodels—people you don’t want to resemble when you grow up.
+- People focus on role models; it is also effective to find antimodels — people you don’t want to resemble as you grow.
  
 ## December 1, 2021 
 
-- Obsession, winning, and balance do not belong in the same sentence. 
-- It's a question of ambition and obsession. What are your goals? If you are focused on becoming a master of your craft, changing the world, building a billion dollar business - these things do not happen on 40 hours a week - they take sacrifice and obsession. People will look at you like you are crazy, they will question you, this is normal - it can be a sign you are on the right track.
+- [Obsession, winning, and balance do not belong in the same sentence.](https://www.amazon.com/Winning-Unforgiving-Race-Greatness-Grover/dp/1982168862)
+- ==It's a question of ambition and obsession. What are your goals? If you are focused on becoming a master of your craft, changing the world, building a billion dollar business. These things do not happen on 40 hours a week - they take sacrifice and obsession. People will look at you like you are crazy, they will question you, this is normal - it can be a sign you are on the right track.==
 - Winning is not glamorous.  
 - Extreme people get extreme results. 
 - Do not view competitiveness as a negative trait - humans are competitive creatures. Embrace your competitive nature. 
@@ -132,8 +129,6 @@ I believe the future lies in the convergence of AI and crypto.
 
 > New tools equal new perceptions.
 
-- Is there a possibility that solutions take longer in the crypto space because of the focus on decentralization? The nature of decentralization rejects any centralized solutions. 
-
 ## November 28, 2021 
 
 > Intelligence without imagination: a deadly combination.
@@ -142,7 +137,7 @@ I believe the future lies in the convergence of AI and crypto.
 
 ## November 22, 2021 
 
-- In a world of persistent normalcy, will creativity exist? 
+- ==In a world of persistent normalcy, will creativity exist?==
 
 ## November 20, 2021 
 
@@ -165,9 +160,9 @@ Re: Naval on Ferriss podcast - perhaps web3 is not simply porting over web2 conc
 
 ## November 3, 2021
 
-### Future fortunes will favor those that prepare for this inevitable upheaval and embrace a digitally immersive future.
+- Future fortunes will favor those that prepare for this inevitable upheaval and embrace a digitally immersive future.
 
-> The Sovereign Individual emphasizes self-ownership, rational thought over fatalism, and does not accept the one size fits all approach of mass consumption society.
+> ==The Sovereign Individual emphasizes self-ownership, rational thought over fatalism, and does not accept the one size fits all approach of mass consumption society.==
 
 > The internet ended the monopoly that the credentialed class had on valuable information.
 
@@ -186,7 +181,8 @@ Re: Naval on Ferriss podcast - perhaps web3 is not simply porting over web2 conc
  </p>
  
 ## October 27, 2021
-- Corporations are just people and unstructured data - this is true for all coordination vehicles 
+
+- Corporations are just people and unstructured data - this is true for all coordination vehicles.
 
 ## October 24, 2021
 
@@ -194,7 +190,7 @@ Re: Naval on Ferriss podcast - perhaps web3 is not simply porting over web2 conc
 
 > He brings up the example of the agricultural revolution which resulted in a lower quality of life and shorter lifespans for neolithic societies. No society or individual deliberately chose this technology that fostered disease and misery. Yet they had no chance to go back, as agricultural societies’ population flourished, the hunter-gatherer way of life was marginalized.
 
-> We are now in a new techno-economic paradigm which revolves around blockchains. Blockchains allow for something called social scalability: the ability to coordinate large swathes of people without increasing centralization.
+> ==We are now in a new techno-economic paradigm which revolves around blockchains. Blockchains allow for something called social scalability: the ability to coordinate large swathes of people without increasing centralization.==
 
 > Making a handful of good uncorrelated bets that are balanced and leveraged well is the surest way of having a lot of upside without being exposed to unacceptable downside.
 
@@ -203,24 +199,23 @@ Re: Naval on Ferriss podcast - perhaps web3 is not simply porting over web2 conc
 ## October 20, 2021
 
 - Government is a compromise among men in which some measure of individual freedom is exchanged for security.
+
 > As the human is individual in nature, rather than hive-oriented as are some species of insect, true collective decision making is beyond our biological ability.
 
 > To develop a theory of change, you need to start at the end and repeatedly ask yourself, “Concretely, how does one achieve that?”
 
 ## October 19, 2021
 
-> Web3 is changing the way we work
-
-AI in the future: Terminator-style killer bots or conversational agents that are your friends and mentors on the internet?
+- Q: AI in the future: Terminator-style killer bots or conversational agents that are your friends and mentors on the internet?
 
 > The fundamentals of many of today’s algorithms have been around for over 30 years. But it’s really only now, in the last 5 to 8 years, that we have had enough data and enough computation to make those technologies work.
 
 What happens to advertisers when you allow your AI to purchase products and services on your behalf?
 
-> if you’re an ambitious entrepreneur interested in AI, there’s never been a better time to get involved.
+> If you’re an ambitious entrepreneur interested in AI, there’s never been a better time to get involved.
 
-> we are unable to process all the data entering through our senses.
-	> Because of that, our brains take shortcuts called “heuristics” that unfortunately introduce a number of (sometimes dangerous) cognitive biases.
+> We are unable to process all the data entering through our senses.
+> Because of that, our brains take shortcuts called “heuristics” that unfortunately introduce a number of (sometimes dangerous) cognitive biases.
 
 > Seneca: “There is nothing wrong with changing a plan when the situation has changed.”
 
