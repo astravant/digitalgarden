@@ -35,6 +35,8 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 # [[Notes]]
 
+[[Daily Notes]]
+
 [[Crypto Resources]]
 
 [[DAO]]
