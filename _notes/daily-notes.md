@@ -559,19 +559,19 @@ People often note some unlikely conjunction of events and marvel at the coincide
 
 > You can’t build a reputation on what you are going to do.
 
->  “Decentralized governance and the ability to handle business differently is the ultimate game-changer” – Mark Cuban
+> Decentralized governance and the ability to handle business differently is the ultimate game-changer. – Mark Cuban
 
-- New technology takes longer to adapt than most people think. Streaming was created in 1995 and 26 years later in 2021, people still watch traditional television.
+- ==New technology takes longer to adapt than most people think. Streaming was created in 1995 and 26 years later in 2021, people still watch traditional television.==
 
 
 # April 16, 2021 
 
-Every time a notification, a phone call, a YouTube video distracts us, our neural networks get rewired. We become more distractible. Less able to focus. More addicted.
-
+==Every time a notification, a phone call, or email distracts us, our neural networks get rewired. We become more distractible. Less able to focus. More addicted.
 
 # April 15, 2021 
 
 > Moral preferences are purely subjective. And change with time, culture and lots of other things.
+
 - Thinking that one of us, trivial collections of molecules that bump against each other, discovered an unshakable fundamental moral law of the universe seems naive.
 
 # April 14, 2021 
@@ -579,31 +579,30 @@ Every time a notification, a phone call, a YouTube video distracts us, our neura
 - All you should be doing is talking to customers and building stuff. 
 - What’s the least code with the most payoff?
 - Always think about adding one more zero to whatever you’re doing, but rarely think beyond that.
-> The future is already here — it’s just not very evenly distributed.
 
-- If you're raising capital, take the smartest money you can get (ideally past founders/CEOs). 
+> The future is already here — it’s just not very evenly distributed. - William Gibson
+
+- ==If you're raising capital, take the smartest money you can get (ideally past founders/CEOs).==
 
 # April 12, 2021 
 
-- The highest level performers are very conscious of their time and energy bank accounts. Eliminate the drama, focus intensely on your daily goals and objectives. 
-
+==The highest level performers are very conscious of their time and energy bank accounts. Eliminate the drama and focus intensely on your daily goals and objectives.==
 
 # April 3, 2021
 
-## [How to Start a New Country](https://1729.com/how-to-start-a-new-country/)
-1) Build a community in the cloud
-2) Organize economy around remote work
-3) Enforce laws with smart contracts
-4) Practice in-person norms of civility
-5) Simulate architecture in VR
-6) Eventually, crowdfund territory - And materialize city into the real world
+### [How to Start a New Country](https://1729.com/how-to-start-a-new-country/)
+1. Build a community in the cloud
+2. Organize economy around remote work
+3. Enforce laws with smart contracts
+4. Practice in-person norms of civility
+5. Simulate architecture in VR
+6. Eventually, crowdfund territory - And materialize city into the real world
 
-> "game engines will be the primary way people will have interfaces with the Internet.” 
-- is this true? 
+> "Game engines will be the primary way people will have interfaces with the Internet.” 
 
 # April 2, 2021 
 
-- You are being challenged for a reason. Without challenges or challengers we remain weak and incapable of accomplishing our destiny.
+- ==You are being challenged for a reason. Without challenges or challengers we remain weak and incapable of accomplishing our destiny.==
 - Be very careful of what you attach your identity to - this is the ego at play. It wants to be attached to things (anything) to feel a sense of identity.
 
 <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
@@ -619,17 +618,21 @@ Every time a notification, a phone call, a YouTube video distracts us, our neura
 
 - Focus on talent density, lead by inspiration not fear. 
 - When you feel like you are ahead, push harder - never celebrate early.
+
 > After a victory, sharpen your sword. 
 
 # March 25, 2021
 
+### Venture Capital
+
 - Find investors who are able to make yes/no decisions and move on - don't let yourself be strung along by firms. 
-- if you only have one point of contact a firm, a deal is much less likely to happen. 
+- If you only have one point of contact at a firm, a deal is much less likely to happen. 
 - Successful fundraising is largely a matter of momentum: it starts out very difficult, and then as commitments accumulate you eventually reach a tipping point where new investors start pitching you for the opportunity to participate.
 - Fundraising can be hugely distracting. Especially when it’s drawn out over a long time period, it can really take focus off of product development. Be conscious of this and don’t let it derail progress.
 
 - A meta trend I see coming to fruition in the coming years is this - everyone will become exponential entrepreneurs and creators. 
-- Thesis - human beings create, technology shortens the amount of time to turn an idea into reality - the ultimate embodiment of this is instant materialization of ideas in the physical realm.
+- Thesis: human beings create and technology shortens the amount of time it takes to create and turn an idea into reality. ==Endgame = instant materialization of ideas in the physical realm.==
+
 - As more people wake up to exponential tech, fewer people are going to sleep as traditional employees.
 
 > Your brain dreams up your whole universe.
@@ -641,7 +644,8 @@ Every time a notification, a phone call, a YouTube video distracts us, our neura
 > “I don’t believe you should do what you’re passionate about; I believe you should be passionate about what you do. Waiting for passion to show up means waiting for fear to go away, and fear is never going to go away.”
 
 # March 15, 2021
-- The whole universe is a computer. A cosmic information processing machine. 
+
+==The whole universe is a computer. A cosmic information processing machine.==
 
 > The universe computes its own destiny.
 
@@ -651,10 +655,11 @@ The laws of physics are the algorithms.
 
 # February 18, 2021
 
-> Human civilization is based on our full intellectual record - and our record should be as advanced as possible if society is to be as advanced as possible.
+> ==Human civilization is based on our full intellectual record - and our record should be as advanced as possible if society is to be as advanced as possible.==
 
 # February 12, 2021
-- Mission should not change; ideas can change, process can change - and these two should change. You should always be seeking to build a more effective and efficient machine for achieving the objectives of the organization.
+
+- Mission should not change; ideas can change, process can change - and these two should change. You should always be seeking to build a more effective and efficient machine for achieving your mission.
 	- This is your goal as CEO or leader of an organization - build a machine that outputs the objectives as effectively and efficiently as possible. 
 
 
@@ -664,7 +669,7 @@ The laws of physics are the algorithms.
 
 - Have a bias toward action — let’s see something happen now. You can break that big plan into small steps and take the first step right away. — Indira Gandhi
 
-> The superior man acts before he speaks and afterward speaks according to his action. - Confucius
+> ==The superior man acts before he speaks and afterward speaks according to his action. - Confucius==
 
 - When we don’t act we create burdens for ourselves. Unaccomplished goals and ideas are like having too many programs running on your computer. It slows you down.
 - Once you get rolling, momentum will keep you moving. Action creates more action. Momentum will help you to move ahead more quickly.
@@ -672,7 +677,8 @@ The laws of physics are the algorithms.
 
 # February 8, 2021
 
-## Ikigai 
+### ==Ikigai==
+
 The convergence of four primary elements:
 -   What you love (your passion)
 -   What the world needs (your mission)
@@ -680,21 +686,27 @@ The convergence of four primary elements:
 -   What you can get paid for (your profession)
 -   [Ikigai: The Japanese Secret to a Long and Happy Life Might Just Help You Live a More Fulfilling Life](https://medium.com/thrive-global/ikigai-the-japanese-secret-to-a-long-and-happy-life-might-just-help-you-live-a-more-fulfilling-9871d01992b7)
 
-# February 7, 2021 
+# February 7, 2021
+
 - "The best Founders we see at NFX know when to rethink the assumptions that they and everybody else have made about an area, technology, or market. This unlocks breakthrough thinking in order to make the seemingly impossible, possible." via [Anti-Patterns of 10x Thinking](https://www.nfx.com/post/anti-patterns-of-10x-thinking/?utm_medium=email&_hsmi=109515401&utm_content=109515401&utm_source=hs_email)
 
 ## Questions
 - What are potential systems to increase the spread of information? Better than the internet? 
-- How can we share information more efficiently? How can we increase the quality of information? What are all the forms of information? Has this evolved over time? Or have we just created the technological capacity to quantify this information?
+- ==How can we share information more efficiently? How can we increase the quality of information? What are all the forms of information? Has this evolved over time? Or have we just created the technological capacity to quantify this information?==
+
+
+# February 7, 2021
+
+> Doubt what you know, be curious about what you don’t, and update your views based on new data.
+
 
 # February 4, 2021
+
 - What is going to act as the base infrastructure and protocols for the metaverse?
 	- we are already fragmenting the metaverse in web3.0. 
-	- is it going to start with gaming platforms? or can we take the employment route? 
+	- is it going to start with gaming platforms?
 	- what about the cryptocurrencies of each platform. Is there going to be a single accepted currency? A tool or protocol that will easily process the transaction of different currencies...
 	- build an operating system? decentralized? 
-
-> “Doubt what you know, be curious about what you don’t, and update your views based on new data.”
 
 # January 25, 2021
 
@@ -703,18 +715,18 @@ The convergence of four primary elements:
 
 > ==We're drowning in information and starving for wisdom.==
 
-> "Life supports what supports more of life." - Tony Robbins 
+> Life supports what supports more of life. - Tony Robbins 
 
 # January 24, 2021
 
 **Offense vs. Defense **
 ==The phases one experiences can be perceived as offense and defense.==
 
-Defense being primarily reading, researching, and preparation. Time pondering and plotting your next moves. Looking at trends, market forces, emerging technologies and ideologies.Based on the information you begin to formulate your plans and projects. 
+Defense being primarily reading, researching, and preparation. Time pondering and plotting your next moves. Looking at trends, market forces, emerging technologies and ideologies. Based on the information collection process, you begin to formulate your plans and projects. 
 
 To bring these projects to fruition and wide-scale adoption you must enter the offense phase. Offense can be described as building; this often takes the form of recruiting, team building, launching products, raising capital for your ventures, marketing/advertising and focusing on users.
 
-# January 14, 2021
+# January 15, 2021
 
 - [Decentralized Autonomous Organizations](https://blockchainhub.net/dao-decentralized-autonomous-organization/)
 
@@ -746,7 +758,7 @@ To bring these projects to fruition and wide-scale adoption you must enter the o
 
 # January 1, 2021
 
-## Thoughts on Time + Energy Investment
+### Thoughts on Time + Energy Investment
 - Most spend high amounts of time on things where input is low energy. 
 - 80/20 - 80% of tasks we invest 20% of our energy (low energy); 20% of tasks take 80% of our energy 
 - ==The goal is to align high levels of energy with your most important tasks.==
@@ -795,10 +807,10 @@ To bring these projects to fruition and wide-scale adoption you must enter the o
 - tech companies are trading at 24x revenue 
 - Roblox and affirm delayed IPOs, they'll likely attempt to raise a lot more money.
 
-### New technologies 
+### Emerging technologies 
 - Quantum computing, battery chemistry/tech, neural interfaces, autonomy
 - Drones, internet of things, wearable, robotics, esports, 3D printing, VR
-- Machine learning, crypto, 5g, cloud
+- Machine learning, Crypto, 5G
 - AR glasses 
 
 > There’s an old saying that the first fifty years of the car industry were about creating car companies and working out what cars should look like, and the second fifty years were about what happened once everyone had a car - they were about McDonalds and Walmart, suburbs and the remaking of the world around the car, for good and of course bad. The innovation in cars became everything around the car. One could suggest the same today about smartphones - now the innovation comes from everything else that happens around them.
@@ -842,9 +854,9 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - Aristotle opened his Metaphysics with the simple statement: "All men by nature desire to know."
 - If open access to and unlimited development of knowledge henceforth puts us all in clear danger of extinction, then common sense demands that we reexamine even these basic, long-held beliefs.
 - It is this further danger that we now fully face—the consequences of our truth-seeking. The truth that science seeks can certainly be considered a dangerous substitute for God if it is likely to lead to our extinction.
-- Thoreau also said that we will be "rich in proportion to the number of things which we can afford to let alone." We each seek to be happy, but it would seem worthwhile to question whether we need to take such a high risk of total destruction to gain yet more knowledge and yet more things; common sense says that there is a limit to our material needs—and that certain knowledge is too dangerous and is best forgone.
+- ==Thoreau also said that we will be "rich in proportion to the number of things which we can afford to let alone." We each seek to be happy, but it would seem worthwhile to question whether we need to take such a high risk of total destruction to gain yet more knowledge and yet more things; common sense says that there is a limit to our material needs—and that certain knowledge is too dangerous and is best forgone.==
 
-- What is [terraforming](https://en.wikipedia.org/wiki/Terraforming#:~:text=Terraforming%20or%20terraformation%20(literally%2C%20%22,habitable%20by%20Earth%2Dlike%20life.) = process of modifying the atmosphere, temperature, ecology, etc of a planet or moon to be similar to the earth, to make it inhabitable.
+- What is [terraforming](https://en.wikipedia.org/wiki/Terraforming_of_Mars)? Process of modifying the atmosphere, temperature, ecology, etc of a planet or moon to be similar to the earth, to make it inhabitable.
 
 ### Knowledge
 - think about knowledge and memory as a semantic tree or the internet
@@ -870,7 +882,6 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 # December 9, 2020
 
 - One of management guru Peter Drucker’s most famous lines is “what gets measured gets managed.” 
-- [Ice Therapy]: Scientific research has found that the body burns more energy when subjected to cold temperatures.
 
 # December 8, 2020
 
@@ -930,7 +941,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - So much so, we expand our identity to become almost a different person - in that the way we speak and observe the events around us for a period of time changes. 
 - Making the hypothesis, most notably to my knowledge by [Buckmister Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller), that at some point in the future we'll be able to transfer ourselves/consiousness to far away places. This seems on-base to me if consciouness is this fragile. Just a bunch of atoms. 
 
-- An observation I have been pondering recently is how signigicant an impact the ideas, and theories one has at my current stage of 18-25, reflects and predicts the time and energy investment of that person in the following years of their life. 
+- An observation I have been pondering recently is how signigicant the impact of ideas and theories one has at my current stage of 18-25 years old, reflects and predicts the time and energy investment of that person in the following decades of their life. 
 - On the contrary, it is unfortunate many people do not continue to follow these things. (this is due to a number of reasons)
 - But, I think back to [Elon's list](https://www.businessinsider.com.au/elon-musk-on-startalk-with-neil-degrasse-tyson-2015-4) of the 5 biggest areas he thinks will have the most impact on the future of humanity and he has been dedicating his life to these ideas ever since. 
 	- He first postulated on these ideas when he was around 20, in college. 
