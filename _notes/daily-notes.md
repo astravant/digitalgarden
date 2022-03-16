@@ -1362,7 +1362,7 @@ We're simply the by-product of millions of years of evolution and adaption. A fe
 - We often are compelled to help those in a phase of their life that we personally went through and grew the most. 
 - Understand this, and learn what motivates individuals and what their ultimate purpose is - where they receive fulfillment. 
 
-<img src="/assets/brandonoffice.JPG"/>
+<img src="/assets/brandonoffice.jpg"/>
 
 # February 27, 2019
 
