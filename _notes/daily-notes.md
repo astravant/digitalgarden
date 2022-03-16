@@ -325,7 +325,7 @@ What happens to advertisers when you allow your AI to purchase products and serv
  
 ## August 26, 2021
 
-[Thread](https://twitter.com/1ahmedh1/status/1430757633875595265)
+(https://twitter.com/1ahmedh1/status/1430757633875595265)
 
 A. Believe in change Most fortunes across history were built from change. These days we confuse technology with change, but if you look at entrepreneurs and billionaires like Ford, Soros, Rothschild and Schwarzmann, they aren’t tech investors, they are change investors.
 
@@ -333,7 +333,7 @@ Each one of them saw, understood and invested in change. All of them understood 
 
 B. Play for the big bucks They think much bigger, and act bolder. They are thinking in multiples rather than %. While us mortals focus on the 20%, they focus on and find the 10x. One way they get to play for a multiple is that they think yrs in advance.
 
-**One question, I try to ask myself weekly is: How can I 10x my life ? Then: what are the skills and people I need to know to 10x my life.**
+==One question, I try to ask myself weekly is: How can I 10x my life ? Then: what are the skills and people I need to know to 10x my life.==
 
 C. Build an Edge Every single ultra-rich person I have met understands their edge, what they are good at, and then what they aren’t good at, and therefore should pay to get done. They are very effective at this, to the point that they can extract the greatest economies of scale.
 
@@ -357,7 +357,8 @@ Henry Ford wasn’t inventing the next horse drawn carriage. Jeff Bezos wasn’t
  
 ## August 23, 2021 
 
-> What you get by achieving your goals is not as important as what you become by achieving your goals. 
+> What you get by achieving your goals is not as important as what you become by achieving your goals.
+
 > The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.
 
 ## August 22, 2021 
@@ -376,7 +377,7 @@ Henry Ford wasn’t inventing the next horse drawn carriage. Jeff Bezos wasn’t
 
 ## July 22, 2021
 
-### If you could achieve any long term goal you wanted, what would you be working on?
+==If you could achieve any long term goal you wanted, what would you be working on?==
 
 
 ## July 12, 2021
@@ -385,18 +386,17 @@ Henry Ford wasn’t inventing the next horse drawn carriage. Jeff Bezos wasn’t
 
 - If someone hears our good news through the grapevine, they’re far more likely to be impressed. Clearly we must have so much good news that we don’t even bother sharing it.
 
-
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM JUNE '21</span>
  </p>
  
 ## June 30, 2021
+
 Q: what if people outside of the early adopter set just don’t really care about decentralization?
 
 ## June 28, 2021
 
 - The most important civilization-saving missions are not in the realms of material technology and "innovation", or markets and finance, but in the areas of social technology: new (and better) patterns of society conducive to production, law, governance, and moral order.
-
 
 ## June 27, 2021 
 
@@ -404,14 +404,12 @@ Q: what if people outside of the early adopter set just don’t really care abou
 
 ## June 20, 2021 
 
-> 2020 was the first year of the 21st century. We have been talking about telecommuting and WFH since the 90s, now we have had a wake up call. - Peter Thiel 
+==2020 was the first year of the 21st century. We have been talking about telecommuting and WFH since the 90s, now we have had a wake up call. - Peter Thiel== 
 
 ## June 19, 2021 
 
 > In life, and in business, the person with the fewest number of blind spots wins. 
 > The quality of your thinking depends on the mental models in your head. 
-
-- A lot of upward mobility exists in Asia at the moment due to factory jobs and manufacturing. As we begin to shift to 3D printing, workers in Asia and India may lose their jobs leading to greater inequality. 
 
 ## June 9, 2021 
 
@@ -427,7 +425,7 @@ Q: what if people outside of the early adopter set just don’t really care abou
 
 > The unseen hand in them all is the networks that surround us and the powerful math they exert on us.
 
-- Optimize your network to be around ambitious people pursuing the types of projects that you want to be involved in. 
+- ==Optimize your network to be around ambitious people pursuing the types of projects that you want to be involved in.== 
 - Dunbar's Law - meant to be in groups of 150
 - Humans are nodes on a network - nodes exchange more information when in proximity with one another. 
 
@@ -439,22 +437,22 @@ What’s fascinating is that this is because of math. Nodes that are “ahead”
 
 The AI revolution will generate enough wealth for everyone to have what they need, if we as a society manage it responsibly.
 
-The best way to increase societal wealth is to decrease the cost of goods.
+==The best way to increase societal wealth is to decrease the cost of goods.==
 
 ## June 4, 2021 
 
-Write down everything that needs to be accomplished - get to the root. It is easier to look at it brick by brick vs. the whole wall - or you will never start as you'll overwhelmed 
+Write down everything that needs to be accomplished - get to the root. It is easier to look at it brick by brick vs. the whole wall - or you will never start as you'll overwhelmed.
 
-1) Break down the individual tasks into as much detail as possible by reverse engineering from the ultimate vision/goal/what you are looking to accomplish.
-2) Next to each task, write a conservative time estimate in number of hours it will take to complete the task. 
-3) Now, you make a day by day plan to check each of the tasks off. 
-4) In my experience, actually writing down the facts of what needs to get done and how much time it will take is a much better way of tackling big projects because it brings clarity to where there was overwhelm.
+1. Break down the individual tasks into as much detail as possible by reverse engineering from the ultimate vision/goal/what you are looking to accomplish.
+2. Next to each task, write a conservative time estimate in number of hours it will take to complete the task.
+3. Now, you make a day by day plan to check each of the tasks off.
+4. In my experience, actually writing down the facts of what needs to get done and how much time it will take is a much better way of tackling big projects because it brings clarity to where there was overwhelm.
 
 ## June 3, 2021 
 
 ### David Lykken 
 
-The mind consists of genetically-determined hardware and experientially-determined software. The hardware components are not constructed by genes working either individually or additively but, rather, by groups of genes working sequentially and configurally. Each human mating produces at least some gene configurations that are unique, having never occurred previously. This is why, among other things, human genius often occurs uniquely in an otherwise undistinguished family line.
+==The mind consists of genetically-determined hardware and experientially-determined software.== The hardware components are not constructed by genes working either individually or additively but, rather, by groups of genes working sequentially and configurally. Each human mating produces at least some gene configurations that are unique, having never occurred previously. This is why, among other things, human genius often occurs uniquely in an otherwise undistinguished family line.
 
 The quality of one's intellectual productions is a function of the product of talent (e.g., intelligence) times mental energy. Although there are many and varied tests for assessing intelligence, psychologists have not as yet even attempted to construct a measure of individual differences in mental energy.
 
@@ -465,7 +463,7 @@ Most people see themselves as better than average.
 
 Nine in ten managers rate themselves as superior to their average peer. Nine in ten college professors rated themselves as superior to their average colleague. And six in ten high school seniors rate their "ability to get along with others" as in the top 10 percent. Most drivers–even most drivers who have been hospitalized after accidents–believe themselves more skilled than the average driver. "The one thing that unites all human beings, regardless of age, gender, religion, economic status or ethnic background," observes Dave Barry, "is that deep down inside, we all believe that we are above average drivers." Excess humility is an uncommon flaw.
 
-When you have the beginnings of an idea about something, the worst thing to do is to consult "the literature" before you get started to work on it. You are sure to assimilate your potentially original idea to something that is already out there.
+==When you have the beginnings of an idea about something, the worst thing to do is to consult "the literature" before you get started to work on it. You are sure to assimilate your potentially original idea to something that is already out there.==
 
 ## June 1, 2021 
 
@@ -477,13 +475,14 @@ There are no true stories.
 
 Luther's Law
 
-Pecca fortiter.
+==Pecca fortiter.==
 
 > Literally, "Sin bravely." His idea was that you're going to make a mess of things anyway, so you might as well do so boldly, confidently, with a little energy and imagination, rather than timidly, fearfully, half-heartedly.
 
 John Allen Paulos
 _professor of mathematics at Temple University_
-[Paulos' Law of Coincidence]
+
+**Paulos' Law of Coincidence**
 
 People often note some unlikely conjunction of events and marvel at the coincidence. Could anything be more wonderfully improbable, they wonder. The answer is Yes. The most amazing coincidence of all would be the complete absence of coincidence.
 
@@ -496,11 +495,12 @@ People often note some unlikely conjunction of events and marvel at the coincide
 ### On News
 - Quality content is at an all time low - news is not popular based on substance. 
 - The speed of delivery has increased - due to technology 
-- The cost to produce content has dropped significantly 
+- The cost to produce content has dropped significantly
 - Incentives for creating quality content is misaligned. News orgs answer to the advertisers, and are therefore incentivized to create click-bait content that get the most clicks. 
 
-- Most of what we read online is pointless - it is not going to help you become a better person or make better decisions. 
-- It is important to be very conscious of the information you are feeding your brain.
+- Most of what we read online is pointless - it is not going to help you become a better person or make better decisions.
+
+==It is important to be very conscious of the information you are feeding your brain.==
 
 > A wealth of information creates a poverty of attention. We are drowning in information and starving for wisdom. 
 
@@ -508,7 +508,7 @@ People often note some unlikely conjunction of events and marvel at the coincide
 
 ## May 17, 2021
 
-> It feels like we’re going through life in a state of “continuous partial attention.” We’re there but not really there. Unaware of where we place our attention. Unconscious about how we live.
+- It feels like we’re going through life in a state of “continuous partial attention.” We’re there but not really there. Unaware of where we place our attention. Unconscious about how we live.
 
 
 ## May 16, 2021 
@@ -519,7 +519,7 @@ People often note some unlikely conjunction of events and marvel at the coincide
 
 > If existing institutions knew what they were doing we would not have startups. 
 
-- Success is not final, wealth is not final. These are mindsets, not destinations.
+==Success is not final, wealth is not final. These are mindsets, not destinations.==
 
 ## May 14, 2021 
 
@@ -528,6 +528,7 @@ People often note some unlikely conjunction of events and marvel at the coincide
 ## May 12, 2021 
 
 - For the perishable, every additional day in its life translates into a shorter additional life expectancy. For the nonperishable, every additional day implies a longer life expectancy.
+
 **So the longer a technology lives, the longer it is expected to live**
 
 ## May 1, 2021
@@ -536,7 +537,7 @@ People often note some unlikely conjunction of events and marvel at the coincide
 
 > - Bad things can happen fast, but almost all good things happen slowly.
 > - We are not bodies that temporarily have souls. We are souls that temporarily have bodies.
-> - The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.
+> - ==The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.==
 > - Train employees well enough they could get another job, but treat them well enough so they never want to.
 > - Being wise means having more questions than answers.
 > - When a child asks an endless string of “why?” questions, the smartest reply is, “I don’t know, what do you think?”
@@ -547,6 +548,7 @@ People often note some unlikely conjunction of events and marvel at the coincide
 <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM APRIL '21</span>
  </p>
+
 # April 27, 2021
 
 - By necessity, founders are rooted in the here and now required to launch a new startup BUT the great founders are also obsessed with what will endure 10, 20, 50 years from now.
@@ -561,12 +563,12 @@ People often note some unlikely conjunction of events and marvel at the coincide
 
 > Decentralized governance and the ability to handle business differently is the ultimate game-changer. – Mark Cuban
 
-- ==New technology takes longer to adapt than most people think. Streaming was created in 1995 and 26 years later in 2021, people still watch traditional television.==
+==New technology takes longer to adapt than most people think. Streaming was created in 1995 and 26 years later in 2021, people still watch traditional television.==
 
 
 # April 16, 2021 
 
-==Every time a notification, a phone call, or email distracts us, our neural networks get rewired. We become more distractible. Less able to focus. More addicted.
+Every time a notification, a phone call, or email distracts us, our neural networks get rewired. We become more distractible. Less able to focus. More addicted.
 
 # April 15, 2021 
 
@@ -582,7 +584,7 @@ People often note some unlikely conjunction of events and marvel at the coincide
 
 > The future is already here — it’s just not very evenly distributed. - William Gibson
 
-- ==If you're raising capital, take the smartest money you can get (ideally past founders/CEOs).==
+==If you're raising capital, take the smartest money you can get (ideally past founders/CEOs).==
 
 # April 12, 2021 
 
