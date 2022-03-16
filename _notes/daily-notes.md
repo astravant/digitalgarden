@@ -241,6 +241,7 @@ What happens to advertisers when you allow your AI to purchase products and serv
 ### [Why the world is going crazy—and how to win back our minds](https://bigthink.com/series/the-big-think-interview/collapse-of-meaning)
 
 > If you took all of life on Earth and you compressed it into one 24-hour day, anatomically modern man shows up at four seconds before midnight, cave paintings at one second before midnight. We've been playing at civilization for a fraction of a second.
+
 > Everything is going into exponential change, from education to quantum computing, to cryptocurrency, to transport, to macroeconomics, to geopolitics, to climate crisis, to everything. It's breaking our brains. We're overwhelmed, we're collapsing in grief.
 
 
@@ -256,16 +257,19 @@ What happens to advertisers when you allow your AI to purchase products and serv
 ### [The Merge](https://blog.samaltman.com/the-merge)
 
 
-> unless we destroy ourselves first, superhuman AI is going to happen, genetic enhancement is going to happen, and brain-machine interfaces are going to happen.
+> Unless we destroy ourselves first, superhuman AI is going to happen, genetic enhancement is going to happen, and brain-machine interfaces are going to happen.
+
 > It is a failure of human imagination and human arrogance to assume that we will never build things smarter than ourselves.
+ 
 > We will be the first species ever to design our own descendants.
+
 > My guess is that we can either be the biological bootloader for digital intelligence and then fade into an evolutionary tree branch, or we can figure out what a successful merge looks like.
 
 ### [How to make friends over the internet](https://guzey.com/how-to-make-friends-over-the-internet/)
 
 - **90% of meeting people is reaching out,** so, unless you’re already very well-known, most of your network building will consist of actively initiating conversations.
 - Those with the most number of friends are those who spend the most time reaching out to people and maintaining relationships.
-- **_any_ platform that allows you to send private messages to people is a platform where you can make friends.**
+- **_Any_ platform that allows you to send private messages to people is a platform where you can make friends.**
 
 
 ## September 20, 2021 
@@ -281,13 +285,14 @@ What happens to advertisers when you allow your AI to purchase products and serv
 ### [How to Raise Money for your DeFi Startup](https://defiweekly.substack.com/p/how-to-raise-money-for-your-defi)
 
 > Build slowly and learn what the market wants/needs. Some of Ethereum’s biggest success stories start off as side projects the founders built slowly.
+
 > Spend a few months on the idea and iterate through it by having as many conversations as possible with people to better understand the problem space.
+
 > My high level recommendation is to **be as crypto native as you possibly can.** The more ties you make into meatspace the slower you’ll move and spend time on problems that aren’t crucial to your product and customers.
 
 - Also ask them what their LPs let them do with the money (can they yield farm) and will they provide liquidity for your network? Those that do are much more value add since they’ll use your product and risk large sums of capital in your network.
 
-> Building up your circle of founder friends is something any entrepreneur should do, just make sure they’re roughly at the same stage so you can provide useful advice to each other.
-> Everyone should invest on the same terms for the same round. No special exceptions.
+> ==Building up your circle of founder friends is something any entrepreneur should do, just make sure they’re roughly at the same stage so you can provide useful advice to each other.==
 
 ### Questions to Ask 
 - “given what we’re doing, what are the primary challenges you see and how can we think about them better”,
@@ -299,7 +304,7 @@ What happens to advertisers when you allow your AI to purchase products and serv
 
 > Work to become, not to acquire. 
 
-### If creating new things required an abundance of money, billionaires would have a monopoly on creating new things. But most breakthroughs are made by those who lack capital. Being poor can be advantage in innovation.
+==If creating new things required an abundance of money, billionaires would have a monopoly on creating new things. But most breakthroughs are made by those who lack capital. Being poor can be advantage in innovation.==
 
 ## September 9, 2021
 - Humans want to belong to groups, we find self-worth, purpose, identity with such attachments.
