@@ -14,7 +14,7 @@ It’s now easier to solve critical national problems through startups. For one,
 
 Financialization and a cultural shift away from collective responsibility have led to a decimation of the bureaucracy and a permanent, aging governing class. A country without a vibrant public service culture cannot thrive, especially when competing with countries with effectively mandatory public service in the technology sector, such as China
 
-Many of the young people who would have stayed in public service or adjacent worlds — such as think tanks, academia, or nonprofits — are moving to startups instead to solve thorny problems of government on time horizons that would be impossible for bureaucrats to fathom.
+==Many of the young people who would have stayed in public service or adjacent worlds — such as think tanks, academia, or nonprofits — are moving to startups instead to solve thorny problems of government on time horizons that would be impossible for bureaucrats to fathom.==
 
 # January 17, 2022 
 
@@ -32,7 +32,7 @@ Many of the young people who would have stayed in public service or adjacent wor
 
 **2) The advent of ASI will make such an unimaginably dramatic impact that it’s likely to knock the human race off the beam, in one direction or the other.**
 
-It may very well be that when evolution hits the tripwire, it permanently ends humans’ relationship with the beam and creates a new world, with or without humans.
+==It may very well be that when evolution hits the tripwire, it permanently ends humans’ relationship with the beam and creates a new world, with or without humans.==
 
 Nick Bostrom describes three ways a superintelligent AI system could function:[6](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html#)
 -   As an **oracle**, which answers nearly any question posed to it with accuracy, including complex questions that humans cannot easily answer—i.e. _How can I manufacture a more efficient car engine?_ Google is a primitive type of oracle.
