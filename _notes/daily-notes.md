@@ -6,6 +6,12 @@ title: Daily Notes
   <span style="font-weight: bold">NOTES FROM JANUARY '22</span>
  </p>
 
+# January 19, 2022 
+
+==Complexity is the enemy of execution.==
+
+- If you are serious about mastering your life, you can't afford to expose yourself to random information. Each piece of information entering your brain affects your neural network. By curating your information consumption you take a step to shape your mind consciously.
+
 # January 18, 2022 
 
 [Building American Dynamism](https://future.a16z.com/building-american-dynamism/)
