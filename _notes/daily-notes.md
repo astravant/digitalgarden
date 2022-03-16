@@ -325,7 +325,7 @@ What happens to advertisers when you allow your AI to purchase products and serv
  
 ## August 26, 2021
 
-(https://twitter.com/1ahmedh1/status/1430757633875595265)
+https://twitter.com/1ahmedh1/status/1430757633875595265
 
 A. Believe in change Most fortunes across history were built from change. These days we confuse technology with change, but if you look at entrepreneurs and billionaires like Ford, Soros, Rothschild and Schwarzmann, they aren’t tech investors, they are change investors.
 
