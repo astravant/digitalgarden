@@ -1303,13 +1303,15 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 
 Colorado
 
+<img src="/assets/20200806.5DS_2059.8688 x 4887.jpg"/>
+
+Utah
 
 # July 18, 2020
 
 <img src="/assets/movingday.jpg"/>
 
 Just arrived in Arizona.
-
 
 # June 26, 2020
 
@@ -1359,6 +1361,8 @@ We're simply the by-product of millions of years of evolution and adaption. A fe
 
 - We often are compelled to help those in a phase of their life that we personally went through and grew the most. 
 - Understand this, and learn what motivates individuals and what their ultimate purpose is - where they receive fulfillment. 
+
+<img src="/assets/brandonoffice.JPG"/>
 
 # February 27, 2019
 
