@@ -6,6 +6,91 @@ title: Daily Notes
   <span style="font-weight: bold">NOTES FROM JANUARY '22</span>
  </p>
 
+# January 18, 2022 
+
+[Building American Dynamism](https://future.a16z.com/building-american-dynamism/)
+
+It’s now easier to solve critical national problems through startups. For one, many of these companies and their respective problems require large capital investment, and venture capitalists are better at taking on risk and allocating capital than agencies in Washington.
+
+Financialization and a cultural shift away from collective responsibility have led to a decimation of the bureaucracy and a permanent, aging governing class. A country without a vibrant public service culture cannot thrive, especially when competing with countries with effectively mandatory public service in the technology sector, such as China
+
+Many of the young people who would have stayed in public service or adjacent worlds — such as think tanks, academia, or nonprofits — are moving to startups instead to solve thorny problems of government on time horizons that would be impossible for bureaucrats to fathom.
+
+# January 17, 2022 
+
+> Say the least. Absorb the most.
+
+- It is useful to think of your life as an ongoing experiment and your goals as hypotheses. You expect that taking these actions will lead you to the desired results but you cannot be sure until you actually run the experiment.
+
+# January 15, 2022 
+
+> Evolution has advanced the biological brain slowly and gradually over hundreds of millions of years, and in that sense, if humans birth an ASI machine, we’ll be dramatically stomping on evolution. Or maybe this is _part_ of evolution—maybe the way evolution works is that intelligence creeps up more and more until it hits the level where it’s capable of creating machine superintelligence, and that level is like a tripwire that triggers a worldwide game-changing explosion that determines a new future for all living things:
+
+“All species eventually go extinct” has been almost as reliable a rule through history as “All humans eventually die” has been.
+
+**1) The advent of ASI will, for the first time, open up the possibility for a species to land on the immortality side of the balance beam.**
+
+**2) The advent of ASI will make such an unimaginably dramatic impact that it’s likely to knock the human race off the beam, in one direction or the other.**
+
+It may very well be that when evolution hits the tripwire, it permanently ends humans’ relationship with the beam and creates a new world, with or without humans.
+
+Nick Bostrom describes three ways a superintelligent AI system could function:[6](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html#)
+-   As an **oracle**, which answers nearly any question posed to it with accuracy, including complex questions that humans cannot easily answer—i.e. _How can I manufacture a more efficient car engine?_ Google is a primitive type of oracle.
+-   As a **genie**_,_ which executes any high-level command it’s given—_Use a molecular assembler to build a new and more efficient kind of car engine_—and then awaits its next command.
+-   As a **sovereign**, which is assigned a broad and open-ended pursuit and allowed to operate in the world freely, making its own decisions about how best to proceed—_Invent a faster, cheaper, and safer way than cars for humans to privately transport themselves._
+
+
+> There are no hard problems, only problems that are hard to a certain level of intelligence. Move the smallest bit upwards [in level of intelligence], and some problems will suddenly move from “impossible” to “obvious.” Move a substantial degree upwards, and all of them will become obvious.[7](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html#)
+
+ASI could even solve our most complex macro issues—our debates over how economies should be run and how world trade is best facilitated, even our haziest grapplings in philosophy or ethics—would all be painfully obvious to ASI.
+
+The difference between a 60-year-old’s body and a 30-year-old’s body is just a bunch of physical things that could be altered if we had the technology.
+
+Eventually, Kurzweil believes humans will reach a point when they’re _entirely_ artificial;[11](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html#) a time when we’ll look at biological material and think how _unbelievably_ primitive it was that humans were ever made of _that_; a time when we’ll read about early stages of human history, when microbes or accidents or diseases or wear and tear could just _kill_ humans against their own will; a time the AI Revolution could bring to an end with the _merging_ of humans and AI.[12](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html#)
+
+# January 14, 2022 
+
+- It feels like a lot of the DAO space is just people who want to run ordinary businesses rediscovering by trial & error why corporations exist.
+
+> The most counterintuitive secret about startups is that it’s often easier to succeed with a hard startup than an easy one. 
+
+# January 13, 2022 
+
+- A problem is a terrible thing to waste. 
+
+# January 12, 2022 
+
+The truth is that labor and wages are not the optimal solution for building sustainable wealth; asset ownership and access to capital is. If you want to become wealthy and obtain financial freedom, you need to _own assets_ — capital > labor.
+
+==Evolve or you'll go out of business.==
+
+# January 11, 2022
+
+==The team you build is the company you build.==
+
+- We are going to see more people tweeting and blogging about low-code and no-code frameworks that reduce developer friction in creating complex AI-powered applications.
+
+- [Web3 Article Moxie ](https://moxie.org/2022/01/07/web3-first-impressions.html)
+- If something is truly decentralized, it becomes very difficult to change, and often remains stuck in time.
+- Blockchains are designed to be a network of peers, but not designed such that it’s really possible for your mobile device or your browser to be one of those peers.
+- With the shift to mobile, we now live firmly in a world of clients and servers – with the former completely unable to act as the latter – and those questions seem more important to me than ever.
+- Given the history of why web1 became web2, what seems strange to me about web3 is that technologies like ethereum have been built with many of the same implicit trappings as web1. To make these technologies usable, the space is consolidating around… platforms. Again.
+
+> Advanced robotics, increasingly sophisticated algorithms, deep learning networks, exponential growth in computer processing power and bandwidth, voice/facial recognition and other tech – all were paving the way towards a highly automated society.
+
+# January 10, 2022
+
+- The market incentivizes the proprietary hoarding of information and closed internal development rather than open, collaborative development.
+
+- I am very fascinated by the convergence of AI and crypto - in many ways they are opposites. ==If AI is communist, crypto is libertarian.== I do believe who controls AI in the future will determine how society functions. Is it owned by a small group of powerful individuals or the commons?
+
+> All power rests on the ability to control language. Humans make sense of the world through stories.
+
+- The stories we tell shape the way we see the world and guide our responses to the problems we face.
+
+# January 9, 2022
+
+==Incentives are a superpower.==
 
 # January 8, 2022
 
