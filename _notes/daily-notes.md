@@ -974,12 +974,14 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - Many exist, with Oz we are focusing on the employment and workplace model. 
 
 # November 19, 2020
+
 > Be in a hurry to learn, not in a hurry to get validation. — Evan Williams
 
-- All we have in this life is time and energy, it is up to us to choose how we would like to invest each of these. 
+- ==All we have in this life is time and energy, it is up to us to choose how we would like to invest each of these.== 
 
 # November 16, 2020
-- Everybody has a worldview, a unique way of looking at the world. We see opportunities based on this worldview. Where you see nothing, someone else may see an amazing opportunity. 
+
+- ==Everybody has a worldview, a unique way of looking at the world. We see opportunities based on this worldview. Where you see nothing, someone else may see an amazing opportunity.==
 - I like to think of it as a light specturm - you see a vertical slice of the spectrum - and you will live your life based on that perspective, where someone else sees a different world because they have a different slice. 
 - To me, it's exciting to think about the entire spectrum - all of the opportunities, trends, ideas, etc that exist - and how you only see a fraction of them with your current perspective. 
 - and realize that you can begin to explore, be curious, and expand that perspective to increase the number of opportunities you see. 
@@ -988,35 +990,41 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 # November 11, 2020
 
-## Thoughts
+### Thoughts
+
 - We currently live in a Game A system - in this system you are objectively 'rewarded' for pursuing domination, wealth, control, power, market share (insert any Game A vector)
-- Also, competition and rivalry are innate to human biology - there is no reason to feel guilty for pursuing wealth and success 
+- Also, competition and rivalry are innate to human biology - there is no reason to feel guilty for pursuing wealth and success.
 - *Let the spirtual guide the individual*
 - So much fear and doubt - resulting in procrastination - exists in my life because I am a proponent of decentralization and power to the people so I want to work on projects which insert these ideas and types of ventures at a societal scale
-- But, as I am learning, it is difficult in today's world to reach a critical mass of people with these ideas
-- So, is the interim answer to pursue Game A projects in the near term - accumulate capital and power i.e. a vehicle (connections, reputation, capital) and then use this platform/vehicle to pursue projects I am passionate about?
+- But, as I am learning, it is difficult in today's world to reach a critical mass of people with these ideas.
+- So, is the interim answer to pursue Game A projects in the near term - accumulate capital and power i.e. career/identity capital (connections, reputation, skills) and then use this platform/vehicle to pursue projects I am passionate about?
 - At what cost?
 	
-## Work
-- work is SO fascinating to me 
+### Work
+
+- The concept of work is SO fascinating to me 
 - we spend a third or more of our lives on something whether we like it or not, most people hate it, or tolerate it at best, and this is all in the name of what? 
 - perpetuating a system that we are slaves to - to accomplish things we have been programmed to 'want to' accomplish 
-- I think it unlocks the keys to the the future/universe - bc if we restructure the work model we unlock so much time 
+- I think it unlocks the keys to the future/universe - bc/ if we restructure the work model we unlock so much time 
 - time to then invest into new ideas, technologies, the sciences, etc. 
-- all stems back to one of my core axioms that the ultimate product of the human mind is to create and build - so what is preventing humanity from doing more of this? what do we spend our time doing? WORK
+- ==all stems back to one of my core axioms that the ultimate product of the human mind is to create and build - so what is preventing humanity from doing more of this? what do we spend our time doing?==
 - we need to reform the work model - this will have political, economic, and social implications 
-- also, many do not find work interesting 
 
 # November 10, 2020
+
 -  “Busyness” Isn’t a Badge of Honor, it’s a Sign of Weakness
 - [How to Avoid the Busy Trap (and Other Misuses of Your Time)](https://tim.blog/2016/03/21/avoid-the-busy-trap/)
 	> Being busy is a form of mental laziness. -Tim Ferriss
-- For world-class performers, busyness and stress are the enemy. They’re a sign you’re off-track. It means you’ve been lazy and undisciplined, and have let too many unimportant tasks take you away from what really matters.
-- “Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.”
+- ==For world-class performers, busyness and stress are the enemy. They’re a sign you’re off-track. It means you’ve been lazy and undisciplined, and have let too many unimportant tasks take you away from what really matters.==
+
+> “Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.”
 
 
 # November 9, 2020
-- Trying to outcompete rivals leads to mediocre performance, so companies should avoid competition and seek to create value instead of beating rivals. 
+
+### Notes from [Peter Thiel's Religion](https://perell.com/essay/peter-thiel/)
+
+- ==Trying to outcompete rivals leads to mediocre performance, so companies should avoid competition and seek to create value instead of beating rivals.==
 - The Hindu [Vedas](https://en.wikipedia.org/wiki/Vedas) teach that the world spins along an endless cycle: creation, rise, decline, destruction, and rebirth. Even if the cycle repeats for millions of years, it will continue to spin forever. 
 	- Nisbet argues that ancient people saw time as cyclical, and no idea has been more important to Western Civilization than the idea of progress. 
 	- Christian theology sees time as linear. It moves away from the Garden of Eden, and toward a day of judgement, justice, and the establishment of a divine, peace-filled kingdom. 
@@ -1026,12 +1034,11 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 > “The shortest distance between two points is reliably a straight line. If your dreams are apparent to you, pursue them. Creating optionality and buying lottery tickets are not weigh stations on the road to pursuing your dreamy outcomes. They are dangerous diversions that will change you.”
 > "When we pursue optionality, we avoid bold decisions. Like anything meaningful, venturing into the unknown is an act of faith. It demands responsibility. You‘ll have to take a stand, trust your decision, and ignore the taunts of outside dissent. But a life without conviction is a life controlled by the futile winds of fashion. Or worse, the hollow echoes of the crowd."
 
-- all objects are desirable when they belong to your neighbor. Society will push you towards competition, but you shouldn’t compete with your peers or depend on them for guidance.
+- ==All objects are desirable when they belong to your neighbor. Society will push you towards competition, but you shouldn’t compete with your peers or depend on them for guidance.==
 
-- Nobel Prize-winning physicist [Richard Feynman[[ (1918–1988)](https://en.wikipedia.org/wiki/Richard_Feynman)
-	- expert for remembering what he learned
+- Nobel Prize-winning physicist [Richard Feynman (1918–1988)](https://en.wikipedia.org/wiki/Richard_Feynman) - expert for remembering what he learned
 	- consumption does not equal learning - our brains filter and forget most of what we consume - or we wouldn't be able to operate in the world. 
-	- A person who reads without pausing to think and reflect won’t remember nor apply anything they read.
+	- ==A person who reads without pausing to think and reflect won’t remember nor apply anything they read.==
 	- Articulate what you read, write down key points, ask questions, explain it to someone.
 	
 > Truth is one, the wise call it by different names. 
@@ -1042,10 +1049,10 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 
 # November 8, 2020
 
-- come up with more ideas and theories
+- Come up with more ideas and theories
 	- alternatives to current political, economic, and social structures
 	- economic theory that doesn't capitalize every thing and idea
-	- poitical stucture where groups are in charge (is this possible?)
+	- poitical stucture where groups are in charge
 
 # November 3, 2020
 
@@ -1066,47 +1073,49 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 
 # November 2, 2020
 
-> When you unprogram yourself, you see that there’s other forms of currency. Like relationships are a more important currency than money itself and that’s what we really sought.
+> ==When you unprogram yourself, you see that there’s other forms of currency. Like relationships are a more important currency than money itself.==
 
-## Frameworks for Entrepreneurs
-- Instead of making a to-do list, ask what is the one highest impact thing I could do today?
+### Frameworks for Entrepreneurs
+
+- Instead of making a to-do list, ask 'what is the one highest impact thing I can do today?'
 - Prioritize the rest of your tasks based on impact and urgency
-- What is the most important thing you can be working on right now?
+- ==What is the most important thing you can be working on right now?==
 
 - Set clear measurable goals that are both ambitious and realistic
-	- Then set your anti-goals, the things you don’t want to happen along the way
-	- Run quick calculations on what it will take to succeed, then spring into action
+- Then set your anti-goals, the things you don’t want to happen along the way
+- Run quick calculations on what it will take to succeed, then spring into action
 
-> Be impatient with action and patient with results.
+> ==Be impatient with action and patient with results.==
 
 - Always take action when you make a decision, get 1 hour of momentum
 	- For instance, talk to a customer or send a cold email.
 
 - Become a person that just does the work
-- amateurs focus on outcomes, professionals focus on the process and strategy
-- motivation is the result of process, not the cause. 
-- example; the most successful entrepreneurs are not focused on 'grinding' or 'hustling' they are just doing what they do - they are focused on the process. They have built systems which become routine. 
+- Amateurs focus on outcomes, professionals focus on the process and systems.
+- Motivation is the result of process, not the cause. 
+- Example; the most successful entrepreneurs are not focused on 'grinding' or 'hustling' they are just doing what they do - they are focused on the process. They have built systems which become routine. 
 
-- as a CEO, the ultimate goal is to build a strategic machine that successfully accomplishes the outcomes and objectives of the organization 
-	- recruiting 
-	- building culture 
-	- growth strategy 
-	- operations 
-	- customer, client, user conversations
-	- accounting 
-	- funding 
-	- development 
+==As a CEO, the ultimate goal is to build a strategic machine that successfully accomplishes the outcomes and objectives of the organization.==
+1. Recruiting 
+2. Culture 
+3. Growth
+4. Operations
+5. Customer, client, user conversations
+6. Capital
+7. Product
 
-## Fiscal Illusion
+### Fiscal Illusion
+
 - Term coined by Amilcare Puviani in 1903
 - fiscal illusion theorizes that the ruling class intentionally misleads the public by exaggerating the benefits of public services and obscuring the total tax burden.
 - theory was developed and popularized by economist James Buchanan in the 1960s as a way to better understand tax policies and outcomes.
 	
-## For prioritizing projects 
-1) Is this task still important, or has the situation changed? Often we commit to tasks or projects that are important at the time, but become less important as situations evolve.
-2) Am I really the only person who can do this? Many top performers think that doing something on their own is easier than teaching someone else how to do it. Trust your colleagues, and give them the chance to surprise you.
-3) Is this the most important thing right now? Or am I using it to avoid something else? Deep down, you know when you’re doing this.
-4) If this was the only thing I completed today, would I be satisfied with my day’s work? Part of avoiding burnout is focusing on work that will give us a sense of accomplishment.
+### For prioritizing projects 
+
+1. Is this task still important, or has the situation changed? Often we commit to tasks or projects that are important at the time, but become less important as situations evolve.
+2. Am I really the only person who can do this? Many top performers think that doing something on their own is easier than teaching someone else how to do it. Trust your colleagues, and give them the chance to surprise you. Ask 'WHO' not 'HOW'
+3. Is this the most important thing right now? Or am I using it to avoid something else? Deep down, you know when you’re doing this.
+4. If this was the only thing I completed today, would I be satisfied with my day’s work? Part of avoiding burnout is focusing on work that will give us a sense of accomplishment.
 
 # November 1, 2020
 
@@ -1151,7 +1160,7 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
   - The first country that Ikea first entered digitally before establishing a physical presence
   
 ### Genies
--  Created an agency named [[Avatar Agency]] to represent the interests of celebrity digital doubles
+-  Created an agency named [Avatar Agency](http://avatars.genies.com/celebrity-avatars/) to represent the interests of celebrity digital doubles
 - Avatars don’t get tired, can “travel” anywhere, and are available 24 hours a day.
 - idea: As the next generation of consumers spend increasingly more of their lives in some form of a digital realm, 3D avatars will likely be everywhere.
 - idea: Avatars are the next medium of expression, and 3D allows you to effectively operate and command virtual beings.
