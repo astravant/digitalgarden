@@ -51,6 +51,7 @@ Eventually, Kurzweil believes humans will reach a point when they’re _entirely
 # January 14, 2022 
 
 - It feels like a lot of the DAO space is just people who want to run ordinary businesses rediscovering by trial & error why corporations exist.
+- In practice, not all DAOs are decentralized or autonomous, so it is best to think of DAOs as internet-based organizations that are collectively owned and controlled by its members.
 
 > The most counterintuitive secret about startups is that it’s often easier to succeed with a hard startup than an easy one. 
 
