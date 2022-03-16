@@ -15,7 +15,7 @@ title: Daily Notes
 - We are all prone to evil. 
 - There is a saying that the line between good and evil is not a line between classes of people or political parties - but a line that passes through the hearts of each and every one of us.
 
->Nobody’s smart enough to design a society; you’ve got to experiment.
+> Nobody’s smart enough to design a society; you’ve got to experiment.
 
 If we can connect brains to an AGI (+ our quantified body data), will they know better than us what we should do?
 
@@ -1164,7 +1164,7 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
 - Very important to recognize the motives driving the actions of individuals and society
 - Be willing to take a different path
   - reverse engineer your desires and motives to get at the root of what interests you and what you believe is important for the future of humanity. 
-  - typically, we have a dozen or more motives driving our actions, we are personally only aware of half of them, and we only publicly share 2-3 of them. 
+  - ==typically, we have a dozen or more motives driving our actions, we are personally only aware of half of them, and we only publicly share 2-3 of them.== 
 - Accept that the path for you will likely be dissimilar to the path pursued by the masses
 - The path being followed by the masses is likely not the right path for you. 
 - Success is at the intersection of your strenghts, a topic that excites you, and self belief. 
@@ -1197,61 +1197,65 @@ Just arrived in Arizona.
 Asheville, North Carolina
 
 # April 23, 2019
-## Creativity
-Take ideas from one place and apply them to another. Even if it's totally different context. Study things that may seem totally unrelated to what you're currently doing. 
 
-> It's easier to be a critic than a creator. 
+### Creativity
 
-Creativity isn't about creating something totally new. It's about refashioning something that already exists. So - to be more creative read a lot of things in different contexts. 
+- Take ideas from one place and apply them to another. Even if it's totally different context. Study things that may seem totally unrelated to what you're currently doing. 
+- Creativity isn't about creating something totally new. It's about refashioning something that already exists. So - to be more creative read a lot of things in different contexts. 
+
+> ==It's easier to be a critic than a creator.== 
 
 What valuable market is no one going after?
 
 # April 15, 2019
 
-#### We're simply the by-product of millions of years of evolution and adaption. A few millennia ago, we didn't have the level of self-awareness and consciousness that we have today. The same stresses about life, work, finances, health, relationships. Life, as we know it today, has grown so complex. We're worried about our careers, how we're going to make money, if you're going to go out to lunch today, that guy that just cut you off on the highway, checking Snapchat or Instagram - these things didn't exist. We're so overwhelmed. We're just conditioned and accustomed to it. It's business as usual. What if we returned to the simplicity. The planet functions on cycles, as do societies. What will it take, to get that simplicity back? 
+=We're simply the by-product of millions of years of evolution and adaption. A few millennia ago, we didn't have the level of self-awareness and consciousness that we have today. The same stresses about life, work, finances, health, relationships. Life, as we know it today, has grown so complex. We're worried about our careers, how we're going to make money, if you're going to go out to lunch today, that guy that just cut you off on the highway, checking Snapchat or Instagram - these things didn't exist. We're so overwhelmed. We're just conditioned and accustomed to it. It's business as usual. What if we returned to the simplicity? The planet functions on cycles, as do societies. What will it take, to get that simplicity back?==
 
 # April 12, 2019
 
-- It's always going to feel like there is more to do. 
+- It's always going to feel like there is more to do.
+ 
 > Your dream dies tomorrow. 
+
 - The planet has existed for 13.8 billion years. We have the opportunity to change what life has been like forever. The greatest change since the beginning of mankind. Creating something that has not existed in billions of years. 
 - Focus on something bigger. Focus on changing the universe forever. All of humanity as we know it. 
-- Make a better Google. Everything is searchable. Education content. Email. Articles. Everything on one platform. Social media. 
-
 
 # April 5, 2019
 
-## Scaling Ideas
-- Everything around us was once an idea in someone's head, but they're not the one who carry it out once the idea gets going.
-- An idea, once implemented, takes on a life of its own. 
+### Scaling Ideas
+
+- Everything around us was once an idea in someone's head, but they're not the one who carries it out once the idea gets going.
+- ==An idea, once implemented, takes on a life of its own.== 
 - This is why it is so important to share your ideas with the world. Because of what happens once they are out in the world.
 
 # March 9, 2019
 
-- Always work hard on something that is uncomfortably exciting. 
-
+- ==Always work hard on something that is uncomfortably exciting.==
 
 # March 1, 2019
 
 > If you feel lost, remember it gets better with time. 
+
 - We often are compelled to help those in a phase of their life that we personally went through and grew the most. 
 - Understand this, and learn what motivates individuals and what their ultimate purpose is - where they receive fulfillment. 
 
 # February 27, 2019
-## The Digital Society Accelerator
+
+### The Digital Society Accelerator
 - Help people launch businesses and document the process
 
-## Thought
+### Thought
+
 - Lots of funding and talent flowing to e-learning/courses
-- Is there a possibility big companies (Netflix, Amazon) are making people lazier, to the point where they are not so interested in learning?
-- There still exists a necessity to learn, acquire skills, etc to apply to careers. 
+- Q: Is there a possibility big companies (Netflix, Amazon) are making people lazier, to the point where they are not so interested in learning?
+- There still exists a necessity to learn, acquire skills, etc. to apply to careers. 
 
 # February 20, 2019
 
-## Idea
+### Idea
 - "Content autopilot" - a software that creates your email list or social media content and sends it out to your subscribers and followers automatically. 
 - People do not pay you because you have likes and followers, they pay because you serve them and provide value. 
-- What if social media didn't exist? 
+- Q: What if social media didn't exist? 
 
 # February 19, 2019
 
@@ -1261,28 +1265,30 @@ What valuable market is no one going after?
 
 # February 4, 2019
 
-- One of the hardest parts of running a business in knowing what to do and what to focus on -- having clarity. Starting a new business or new endeavor can be overwhelming. 
+- One of the hardest parts of running a business in knowing what to focus on -- having clarity. Starting a new business or new endeavor can be overwhelming. 
 - Lack of knowledge or resources typically isn't the problem - it's lack of understanding of where to start. There's no shortage of information. 
+- ==We're drowning in information and starving for wisdom.==
 
 # January 13, 2019
 
-> It would be a sin to not share what is inside of your head with the world. The creativty you share will make the world a more productive and happier place. Don't rob the world of your gifts.
+==It would be a sin to not share what is inside of your head with the world. The creativty you share will help make the world a more productive and happier place. Don't rob the world of your gifts.==
 
 # January 9, 2019
 
 - If you are driven by materialistic items and buying things i.e. working for a new watch or new car (selfish goals that benefit you and you alone) you will never be truly fulfilled, no matter how many things you accumulate. 
 - Successful people are driven by fulfilling a mission and helping/serving. Something much bigger than themselves. Selfless goals that benefit humanity. (They may reward themselves with material items, but that is not their primary motivator, rather a by-product). 
 
-> Happiness comes from setting life goals for yourself and progressing and improving as a person as you work towards them and being able to celebrate those achievements with those closest to you. 
+> Happiness comes from setting life goals for oneself and progressing and improving as a person as you work towards them and being able to celebrate those achievements with those closest to you. 
 
 # January 6, 2019
 
-# Questions
+### Questions
+
 - How/why do you keep going? 
 (I’ve realized it’s not about the money, that’s what you hear all the time but when you’re broke that’s typically your primary motivator and focus. Once you have it, it’s not the goal anymore.) 
-- Money does not make you happy, but not having money can make you unhappy.
+- ==Money does not make you happy, but not having money can make you unhappy.==
 - When were you happiest in life? Now or younger with less responsibilities? 
-- If you could not pass any money to your kids, what 3 strategies or tips would you give them? 
+- Q: If you could not pass any money to your kids, what 3 strategies or tips would you give them? 
 
 - Book on money [Thou Shall Prosper: Ten Commandments for Making Money](https://www.amazon.com/Thou-Shall-Prosper-Commandments-Making/dp/0470485884).
 
@@ -1295,21 +1301,23 @@ What valuable market is no one going after?
 - Focus on actionable goals. What can you do today? 
 - Be contrarian. Do what others aren't doing. 
 
-- There should be fires - be worried if things are going perfect. 
+- There should be fires - be worried if things are going perfectly. 
 - God gives the toughest battles to the strongest of his people.
 
 # September 18, 2018
 
 - People don't value what they don't fight for.
+
 1. Love is everything 
 2. The secret to living is giving (to give you have to keep growing)
-3. When you're suffering you're obsessing about yourself, how you have less or lost love or a material thing. All suffering is about self, so shift your view and start appreciating things outside yourself. 
+3. When you're suffering, you're obsessing about yourself; how you have less or lost love or a material thing. All suffering is about self, so shift your view and start appreciating things outside yourself. 
+
 > Some people are praying for the things you take for granted. 
 
 - Manage expectations 
 - Do things right - and if you make a mistake learn from it. Experience comes from bad decisions. 
 - Find a need and focus on it - solve peoples problems. 
-- Travel often
+- Travel often. Expand your perspective.
 
 # September 15, 2018
 
@@ -1319,12 +1327,12 @@ What valuable market is no one going after?
 	- is this paradigm accurate? 
 	- if it is true, why? 
 - Progress = Happiness  
-- The secret to living is giving.
+- ==The secret to living is giving.==
 
 # September 11, 2018
 
 - Core components of making a dream come true: having a clear vision, making actionable goals, leveraging and building networks, and getting out of your comfort zone to make that dream come true. 
-- Take MASSIVE action. SPEED.
+- ==Take MASSIVE action. SPEED==
 - Risks aren't that scary once you take them. 
 > "I am an old man and have known a great many troubles, but most of them never happened."- Mark Twain
 - We as humans fear the unknown and the "not yet." Live simply and be happy in the moment.
@@ -1333,15 +1341,13 @@ What valuable market is no one going after?
 
 # September 4, 2018
 
-- While the ambition of changing the world and inspiring creators and everyday people to follow their dreams is an important driving force - I just love a challenge. Life is one big challenge to me. I’m in a competition with myself every single day. I do it to prove to myself that I can. I have these businesses and this vision for each of them and what I want to be able to accomplish with them and the people we want to impact, but at the end of the day just love the process.
+- While the ambition of changing the world and inspiring creators and everyday people to follow their dreams is an important driving force - I love a challenge. Life is one big challenge to me. I’m in a competition with myself every single day. I do it to prove to myself that I can. I have these businesses and this vision for each of them and what I want to be able to accomplish with them and the people we want to impact, but at the end of the day just love the process.
 - My life is dedicated to teaching people how to create freedom and happiness and stability in their lives. Escape the status quo.
 
 
 # September 1, 2018
 
-## Thoughts 
-
-- Few will act for the many, but many will act for the one. (Find one person or your family that you’re doing it for.) 
+==Few will act for the many, but many will act for the one.==
 
 # March 25, 2018
 
@@ -1355,8 +1361,6 @@ What valuable market is no one going after?
 
 # March 22, 2018
 
-## Advice and Habits 
-
 ### Advice and Habits 
 
 - Do what others don't - be contrarian, if you want a life other people don't have you must do things other people don't do. 
@@ -1365,7 +1369,7 @@ What valuable market is no one going after?
 - Get out of your comfort zone. Life begins at the end of your comfort zone. Discomfort = growth.
 - Follow what excites you, be willing to step out of your comfort zone and share those experiences with others. 
 - Don't focus too much on the past. 
-- 
+
 > Don't be a prisoner to things you can't change
 
-- Read books, get a mentor. 
+- Read books. All it takes is one book to transfrom your life. 
