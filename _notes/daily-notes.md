@@ -1345,7 +1345,7 @@ What valuable market is no one going after?
 
 # March 25, 2018
 
-- Your self worth doesn't come from what you earn, it comes from what you create. Create something, don't just own something. 
+- ==Your self worth doesn't come from what you earn, it comes from what you create. Create something, don't just own something.== 
 - Always be who you are. Never give up your identity to fit into society. 
 - Stay crazy - it's the crazy ones who change the world. 
 - Intellectual curiosity - never stop learning. 
@@ -1357,10 +1357,15 @@ What valuable market is no one going after?
 
 ## Advice and Habits 
 
+### Advice and Habits 
+
 - Do what others don't - be contrarian, if you want a life other people don't have you must do things other people don't do. 
 - FOCUS: make actionable goals and work on them everyday - don't get involved in too many projects. Focus + master one and then diversify. 
 - Relationships - build connections and meet people, surround yourself with people who support you and are working on projects you're interested in. 
 - Get out of your comfort zone. Life begins at the end of your comfort zone. Discomfort = growth.
 - Follow what excites you, be willing to step out of your comfort zone and share those experiences with others. 
-- Don't focus too much on the past. Don't be a prisoner to things you can't change
+- Don't focus too much on the past. 
+- 
+> Don't be a prisoner to things you can't change
+
 - Read books, get a mentor. 
