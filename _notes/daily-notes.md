@@ -6,7 +6,8 @@ title: Daily Notes
   <span style="font-weight: bold">NOTES FROM JANUARY '22</span>
  </p>
 
-## January 8, 2022
+
+# January 8, 2022
 
 ==When does wisdom of crowds become madness of crowds?==
 
@@ -22,19 +23,19 @@ title: Daily Notes
 - Perhaps there is less patriotism today bc/ the current generations have not had to sacrifice anything for the country. It sounds counterintuitive but if you make sacrifices and give things up for someone or something, we feel more drawn to and connected to that thing.
 
 
-## January 6, 2022
+# January 6, 2022
 
 > How can we accelerate coordination? How can we better coordinate ourselves, to inspire better coordination mechanisms in the world?
 
 Improving coordination means better resource allocation, less corruption, and more symmetry between value created and value captured.
 
-## January 3, 2022
+# January 3, 2022
 
 > And so, although the present generation lives in the most prosperous period in human history, it’s plausibly also the most dangerous.
 
 _“You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.” — Buckminster Fuller_
 
-## January 2, 2022
+# January 2, 2022
 
 ### Goal Setting via [How I set and execute 50-year goals](https://hackernoon.com/how-i-set-and-execute-50-year-goals-why-i-see-cutting-in-lines-as-morally-right-f4d0ce28574f)
 
@@ -43,7 +44,7 @@ _“You never change things by fighting the existing reality. To change somethin
 2.  **Thread that converts my long-term vision to tractable daily actions**. Long-term vision => decade themes => year OKRs => quarter OKRs=> weekly/daily actions.
 3.  **Minimize bullshit that does not advance my long-term vision**. I delegate, pay, ignore etc.; doesn’t matter as long as I just don’t do it.
 
-## January 1, 2022
+# January 1, 2022
 
 ==When long-term goal setting, I am learning it's more important to optimize for skills, systems, and traits - opposed to objects or simple pass fail metrics. Focus on becoming a person with skills that will simply attract the 'things you want.' Focus on systems and processes versus things and objects.==
 
@@ -67,29 +68,29 @@ In 2022, food, transportation, and especially housing prices will rise, and whil
   <span style="font-weight: bold">NOTES FROM DECEMBER '21</span>
  </p>
 
-## December 31, 2021
+# December 31, 2021
 
 ==Earn with your mind, not your time.==
 
-## December 29, 2021
+# December 29, 2021
 
 - The concept of the 'double thank you' has really clicked with me. By paying others to do things that are not your core competence, you are stimulating the economy and helping people.
 
 [The Double Thank You of the Market](https://fee.org/articles/the-double-thank-you-of-the-market/)
 
-## December 14, 2021
+# December 14, 2021
 
 - Update the programming in your brain if you are not happy with the way things are. Reprogram your mind, habits, thoughts, creativity, perspective, mindset, etc. 
 
-## December 11, 2021 
+# December 11, 2021 
 
 ==If you woke up tomorrow morning and found out you had ten years to live, what would you stop doing?==
 
-## December 10, 2021 
+# December 10, 2021 
 
 > No one “builds a house.” They lay one brick again and again and again and the end result is a house. Procrastinators are great visionaries—they love to fantasize about the beautiful mansion they will one day have built—but what they need to be are gritty construction workers, who methodically lay one brick after the other, day after day, without giving up, until a house is built.
 
-## December 5, 2021 
+# December 5, 2021 
 
 - As Rabbi **Moses ben Maimon** (1135–1204), commonly known as Maimonides, said: “Teach thy tongue to say I do not know, and thou shalt progress.”
 - Focus on questions where effort will pay off the most.
@@ -104,7 +105,7 @@ In 2022, food, transportation, and especially housing prices will rise, and whil
 - No amount of book smarts will help you, you have to practice. 
  
  
-## December 5, 2021 
+# December 5, 2021 
  
 > There is a difference between knowledge and action.
 
@@ -112,7 +113,7 @@ In 2022, food, transportation, and especially housing prices will rise, and whil
 
 - People focus on role models; it is also effective to find antimodels — people you don’t want to resemble as you grow.
  
-## December 1, 2021 
+# December 1, 2021 
 
 - [Obsession, winning, and balance do not belong in the same sentence.](https://www.amazon.com/Winning-Unforgiving-Race-Greatness-Grover/dp/1982168862)
 - ==It's a question of ambition and obsession. What are your goals? If you are focused on becoming a master of your craft, changing the world, building a billion dollar business. These things do not happen on 40 hours a week - they take sacrifice and obsession. People will look at you like you are crazy, they will question you, this is normal - it can be a sign you are on the right track.==
@@ -125,32 +126,32 @@ In 2022, food, transportation, and especially housing prices will rise, and whil
   <span style="font-weight: bold">NOTES FROM NOVEMBER '21</span> 
  </p>
 
-## November 29, 2021 
+# November 29, 2021 
 
 > New tools equal new perceptions.
 
-## November 28, 2021 
+# November 28, 2021 
 
 > Intelligence without imagination: a deadly combination.
 
 > The public observes the external signs of wealth without even having a glimpse at the source.
 
-## November 22, 2021 
+# November 22, 2021 
 
 - ==In a world of persistent normalcy, will creativity exist?==
 
-## November 20, 2021 
+# November 20, 2021 
 
 - What happens after the metaverse? The metaverse is being framed as the 'singularity' moment for the world - what happens next? Have we not dreamed beyond this? It will likely not be a utopia...
  
-## November 9, 2021
+# November 9, 2021
 
 - DAO's are coordination vehicles fit for the 21st century
 - People will cede increasingly more control to AI as they see the results and begin to develop trust with AIs. They will understand us more than we understand ourselves. 
 
 Re: Naval on Ferriss podcast - perhaps web3 is not simply porting over web2 concepts and decentralizing them, but creating new types of companies and doing things we have not even imagined yet. Web2 may have its place w/ social media platforms, search, etc. As some of these use cases really benefit from centralization. What models would work well in a web3 world?
  
-## November 6, 2021
+# November 6, 2021
 
 > _Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it’s the only thing that ever has._ – **Margaret Mead**
 
@@ -158,7 +159,7 @@ Re: Naval on Ferriss podcast - perhaps web3 is not simply porting over web2 conc
 
 > We live in a world where our social system is old, our language is old, the way we acquire goods and services is outdated, our cities are detrimental to our health, chaotic and a tremendous waste of resource, and most of all our politics and values no longer serve us.
 
-## November 3, 2021
+# November 3, 2021
 
 - Future fortunes will favor those that prepare for this inevitable upheaval and embrace a digitally immersive future.
 
@@ -166,13 +167,13 @@ Re: Naval on Ferriss podcast - perhaps web3 is not simply porting over web2 conc
 
 > The internet ended the monopoly that the credentialed class had on valuable information.
 
-## November 2, 2021
+# November 2, 2021
 
 > Social media as a social control mechanism - like in ORWELL'S 1984, 2 minutes of hate. People at boring jobs spew hate on twitter for 2 minutes then go back to their boring jobs. Social media is a substitute to revolution, not a complement.
 
 > Once an experiment starts, real-world feedback is often by far the most useful variable to determine how the experiment should be adjusted in the future.
 
-## November 1, 2021
+# November 1, 2021
 
 > It is quite possible that the feature of being human that has made us the intelligent, most powerful creatures on the planet, is our ability to distill external information into internal knowledge.
 
@@ -180,11 +181,11 @@ Re: Naval on Ferriss podcast - perhaps web3 is not simply porting over web2 conc
   <span style="font-weight: bold">NOTES FROM OCOTOBER '21</span>
  </p>
  
-## October 27, 2021
+# October 27, 2021
 
 - Corporations are just people and unstructured data - this is true for all coordination vehicles.
 
-## October 24, 2021
+# October 24, 2021
 
 > Real power comes from undetectable influence
 
@@ -196,7 +197,7 @@ Re: Naval on Ferriss podcast - perhaps web3 is not simply porting over web2 conc
 
 > Think of yourself as a machine operating within a machine and know that you have the ability to alter your machines to produce better outcomes.
 
-## October 20, 2021
+# October 20, 2021
 
 - Government is a compromise among men in which some measure of individual freedom is exchanged for security.
 
@@ -204,7 +205,7 @@ Re: Naval on Ferriss podcast - perhaps web3 is not simply porting over web2 conc
 
 > To develop a theory of change, you need to start at the end and repeatedly ask yourself, “Concretely, how does one achieve that?”
 
-## October 19, 2021
+# October 19, 2021
 
 - Q: AI in the future: Terminator-style killer bots or conversational agents that are your friends and mentors on the internet?
 
@@ -225,13 +226,13 @@ What happens to advertisers when you allow your AI to purchase products and serv
   <span style="font-weight: bold">NOTES FROM SEPTEMBER '21</span>
  </p>
 
-## September 29, 2021
+# September 29, 2021
 
 - Our prime objective as a species is to create a nation that can enable coordination on a large enough scale so that we can begin to work collectively towards common goals.
 - Not all nations are good at organizing people, and nations that are inefficient at scaling trust will ultimately succumb to ones that are better at that function. This is the natural march of evolution and progress.
 
 
-## September 24, 2021
+# September 24, 2021
 
 ### [Why the world is going crazy—and how to win back our minds](https://bigthink.com/series/the-big-think-interview/collapse-of-meaning)
 
@@ -240,14 +241,14 @@ What happens to advertisers when you allow your AI to purchase products and serv
 > Everything is going into exponential change, from education to quantum computing, to cryptocurrency, to transport, to macroeconomics, to geopolitics, to climate crisis, to everything. It's breaking our brains. We're overwhelmed, we're collapsing in grief.
 
 
-## September 22, 2021
+# September 22, 2021
 
 > If you take a human being and upgrade them to like 10,000 IQ the outcome might not be what you want, because you’ve got a motivational system and an emotional system that basically evolved in prehuman animals. Whereas if you architect a system where **rationality and empathy** play a deeper role in the architecture then as its intelligence ramps way up we may find a more beneficial outcome.
 
 - Preference falsification theory states people will broadly lie about their true preferences (thus keeping a public set of preference and a private set of preferences)
 - You do not want to become too much like any particular group- being different is a positive, not a negative. But due to our preanimal programming we do not believe this to be the case.
  
-## September 21, 2021 
+# September 21, 2021 
 
 ### [The Merge](https://blog.samaltman.com/the-merge)
 
@@ -267,15 +268,15 @@ What happens to advertisers when you allow your AI to purchase products and serv
 - **_Any_ platform that allows you to send private messages to people is a platform where you can make friends.**
 
 
-## September 20, 2021 
+# September 20, 2021 
 
 - The internet has made it easy to distribute creative work to millions of people, but no one has figured out how to help creatives make a sustainable living.
 
-## September 14, 2021
+# September 14, 2021
 
 > Man's progress is not measured by the reaches of his science but by the limits of his superstition. The truth is known. But the truth is unpopular.
 
-## September 13, 2021
+# September 13, 2021
 
 ### [How to Raise Money for your DeFi Startup](https://defiweekly.substack.com/p/how-to-raise-money-for-your-defi)
 
@@ -295,13 +296,13 @@ What happens to advertisers when you allow your AI to purchase products and serv
 - Asking how they get their money, what they’ve promised their investors and what their objectives are are important. Not all money is created equal and you want to know what kind you’re dealing with.
 
 
-## September 10, 2021
+# September 10, 2021
 
 > Work to become, not to acquire. 
 
 ==If creating new things required an abundance of money, billionaires would have a monopoly on creating new things. But most breakthroughs are made by those who lack capital. Being poor can be advantage in innovation.==
 
-## September 9, 2021
+# September 9, 2021
 - Humans want to belong to groups, we find self-worth, purpose, identity with such attachments.
 - It is a common misunderstanding that the only type of intelligence is human intelligence. We tend to measure intelligence by how close it is to ours. 
 
@@ -309,7 +310,7 @@ What happens to advertisers when you allow your AI to purchase products and serv
 	- it is about output, how much are you producing?
 
 
-## September 8, 2021
+# September 8, 2021
 
 >  The Universe will pay you back what you give it. 
 
@@ -323,7 +324,7 @@ What happens to advertisers when you allow your AI to purchase products and serv
   <span style="font-weight: bold">NOTES FROM AUGUST '21</span>
  </p>
  
-## August 26, 2021
+# August 26, 2021
 
 https://twitter.com/1ahmedh1/status/1430757633875595265
 
@@ -349,23 +350,23 @@ E. Live in the Present They aren’t trapped in the past and what they did last 
 
 Henry Ford wasn’t inventing the next horse drawn carriage. Jeff Bezos wasn’t starting the next hedge fund when he left D.E. Shaw. **Based on what I know today, what is the best use of my time, and what am I doing now that doesn't need to be done?**
  
-## August 24, 2021
+# August 24, 2021
 
 - To bootstrap a new blockchain or app, you need to convince people that other people will also use that blockchain or app. The best blockchain technology in the world is useless without people building on top of it. 
 - The name of the game is to convince as many people as possible to build on your protocol.
 - Then, it’s about those developers attracting and properly incentivizing users.
  
-## August 23, 2021 
+# August 23, 2021 
 
 > What you get by achieving your goals is not as important as what you become by achieving your goals.
 
 > The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.
 
-## August 22, 2021 
+# August 22, 2021 
  
 ### Productivity is for robots, creativity is for humans.
 
-## August 20, 2021 
+# August 20, 2021 
 
 - GDP is a poor way to account for everything in a society. Companies are valued based on future cash flows. We should think of countries in the same way. If you’re innovating and building and have a lot of assets as a country - perhaps it’s okay to be printing money to fund new projects.
 
@@ -375,12 +376,12 @@ Henry Ford wasn’t inventing the next horse drawn carriage. Jeff Bezos wasn’t
   <span style="font-weight: bold">NOTES FROM JULY '21</span>
  </p>
 
-## July 22, 2021
+# July 22, 2021
 
 ==If you could achieve any long term goal you wanted, what would you be working on?==
 
 
-## July 12, 2021
+# July 12, 2021
 
 > Reporting good news can make a person look bad. If we look anxious to reveal good news, our listeners assume that we don’t come by good news very often. Or perhaps our listeners believe we consider the good news a stroke of marvelous luck. Did Michael Jordan need to tell his friends every time he scored thirty points in a game?
 
@@ -390,34 +391,34 @@ Henry Ford wasn’t inventing the next horse drawn carriage. Jeff Bezos wasn’t
   <span style="font-weight: bold">NOTES FROM JUNE '21</span>
  </p>
  
-## June 30, 2021
+# June 30, 2021
 
 Q: what if people outside of the early adopter set just don’t really care about decentralization?
 
-## June 28, 2021
+# June 28, 2021
 
 - The most important civilization-saving missions are not in the realms of material technology and "innovation", or markets and finance, but in the areas of social technology: new (and better) patterns of society conducive to production, law, governance, and moral order.
 
-## June 27, 2021 
+# June 27, 2021 
 
 - Ancient Athens had 300,000 residents. Renaissance Florence had 80,000. Countless forgotten cities were far larger. The greatness of a city has little to do with its population, and everything to do with its populace.
 
-## June 20, 2021 
+# June 20, 2021 
 
 ==2020 was the first year of the 21st century. We have been talking about telecommuting and WFH since the 90s, now we have had a wake up call. - Peter Thiel== 
 
-## June 19, 2021 
+# June 19, 2021 
 
 > In life, and in business, the person with the fewest number of blind spots wins. 
 > The quality of your thinking depends on the mental models in your head. 
 
-## June 9, 2021 
+# June 9, 2021 
 
 - Over time, the rewards for most creative work will become governed by power laws. A smaller group of winners will collect a higher share of the rewards. And over time, algorithms will play a bigger role in determining those winners, shifting power away from old power brokers and hitmakers.
 
 - In such a scenario, every career becomes a pyramid scheme. If you can attract enough people to buy your tokens, and they can attract enough people to buy even more tokens, the whole enterprise will continue to increase in value. This increase will happen regardless of how much revenue you can generate from _doing your actual job_. And it will continue until you run out of stories to tell, or until you run out of people to tell stories to.
 
-## June 8, 2021 
+# June 8, 2021 
 
 [Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects/)
 
@@ -433,13 +434,13 @@ Most things that happen in society are multi-turn and repetitive. These are call
 
 What’s fascinating is that this is because of math. Nodes that are “ahead” get picked more often by the other nodes because they are ahead and thus offer the nodes choosing them less friction and more benefit. When this gets repeated many times, it systematically directs more resources to the nodes that already have relatively more.
 
-## June 7, 2021 
+# June 7, 2021 
 
 The AI revolution will generate enough wealth for everyone to have what they need, if we as a society manage it responsibly.
 
 ==The best way to increase societal wealth is to decrease the cost of goods.==
 
-## June 4, 2021 
+# June 4, 2021 
 
 Write down everything that needs to be accomplished - get to the root. It is easier to look at it brick by brick vs. the whole wall - or you will never start as you'll overwhelmed.
 
@@ -448,7 +449,7 @@ Write down everything that needs to be accomplished - get to the root. It is eas
 3. Now, you make a day by day plan to check each of the tasks off.
 4. In my experience, actually writing down the facts of what needs to get done and how much time it will take is a much better way of tackling big projects because it brings clarity to where there was overwhelm.
 
-## June 3, 2021 
+# June 3, 2021 
 
 ### David Lykken 
 
@@ -465,7 +466,7 @@ Nine in ten managers rate themselves as superior to their average peer. Nine in 
 
 ==When you have the beginnings of an idea about something, the worst thing to do is to consult "the literature" before you get started to work on it. You are sure to assimilate your potentially original idea to something that is already out there.==
 
-## June 1, 2021 
+# June 1, 2021 
 
 O'Donnell's Law of History
 
@@ -490,7 +491,7 @@ People often note some unlikely conjunction of events and marvel at the coincide
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM MAY '21</span>
  </p>
-## May 18, 2021 
+# May 18, 2021 
 
 ### On News
 - Quality content is at an all time low - news is not popular based on substance. 
@@ -506,12 +507,12 @@ People often note some unlikely conjunction of events and marvel at the coincide
 
 > Your focus is your reality. What we focus on we attract. Where focus goes, energy flows. 
 
-## May 17, 2021
+# May 17, 2021
 
 - It feels like we’re going through life in a state of “continuous partial attention.” We’re there but not really there. Unaware of where we place our attention. Unconscious about how we live.
 
 
-## May 16, 2021 
+# May 16, 2021 
 
 - The key to getting what you want out of life is to identify how the world works and align yourself accordingly.
 
@@ -521,17 +522,17 @@ People often note some unlikely conjunction of events and marvel at the coincide
 
 ==Success is not final, wealth is not final. These are mindsets, not destinations.==
 
-## May 14, 2021 
+# May 14, 2021 
 
 > Just as eating cow-meat doesn’t turn you into a cow, studying philosophy doesn’t make you wiser.
 
-## May 12, 2021 
+# May 12, 2021 
 
 - For the perishable, every additional day in its life translates into a shorter additional life expectancy. For the nonperishable, every additional day implies a longer life expectancy.
 
 **So the longer a technology lives, the longer it is expected to live**
 
-## May 1, 2021
+# May 1, 2021
 
 ### Quotes via [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/)
 
