@@ -8,7 +8,7 @@ title: Daily Notes
  
 # March 13, 2022
 
-==The basic problem with our society is a disconnect between consensus reality and actual reality.== We actually have no shortage of natural leaders. But they cannot actually lead us anywhere. They are operating in consensus reality rather than actual reality. Their joysticks are not plugged in. When the consensus is nonsense, sober good sense is nonsense. Nonsense is no use to anyone.
+==The basic problem with our society is a disconnect between consensus reality and actual reality.== We have no shortage of natural leaders. But they cannot actually lead us anywhere. They are operating in consensus reality rather than actual reality. Their joysticks are not plugged in. When the consensus is nonsense, sober good sense is nonsense. Nonsense is no use to anyone.
 
 # March 10, 2022
 
