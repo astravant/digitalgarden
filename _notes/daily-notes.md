@@ -27,16 +27,16 @@ title: Daily Notes
 
 > If you only had 3 months left to live, what would your goals be?
 
-- Every new day, you are closer to the day you die. Was your last day worth it? Getting you closer to your purpose for being this lifeform. 
+- Every new day, you are closer to the day you die. Was your last day worth it? Getting you closer to your purpose for being this lifeform?
 
 - If you have a true goal, something that is extremely valuable to you, and that you believe to be very important, ONLY THEN can you begin to properly value and use your time.
 
 - As Ryan Holiday has said, _“This is a fundamental irony of most people’s lives. They don’t quite know what they want to do with their lives. Yet they are very active.”_
 
 ### Get very clear on 
--   What you believe
--   And what you should do because of that belief
--   And how to most effectively accomplish that belief
+- What you believe
+- And what you should do because of that belief
+- And how to most effectively accomplish that belief
 
 - If you had 6 months to live, how much of that time would you spend on Twitter?
 - If you had 6 months left to live, would it be difficult to wake up at 5AM?
