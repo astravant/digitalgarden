@@ -17,8 +17,6 @@ title: Daily Notes
 - The top players have a paradoxical quality: they’re often extreme insiders or extreme outsiders, rather than being average.
 - Extreme insider-outsiders are hard to pin down: they are x but also not-x. Today they are x, tomorrow they are not-x. They understand that the world demands flexibility but are also committed to particular ideas.
 
-![tumblr_228e3c4d1c8b1ecb501f0ebb0a9eacc0_abdfe4df_500](https://user-images.githubusercontent.com/75190245/158879808-7a169e6b-0a0b-49f5-89b7-8f6d22bdee8f.png)
-
 ![tumblr_f4c015d2129e279c994b9845aa87cdb9_d7ad0f2f_500](https://user-images.githubusercontent.com/75190245/158879773-fafbd105-3e4a-4ca4-b350-4730169d388e.png)
 
 - How much of this can be avoided? How do you avoid becoming a sacrificial victim? The simple answer, of course, ==is that if you really don’t want to get killed, you shouldn’t sit on the throne.==
@@ -46,7 +44,8 @@ title: Daily Notes
 
 > In the future you’re telling a computer what to do or a computer is telling you what to do. You want to be on the right side of that. - Naval
 
-- **[Optimize Your Environment to Match Your Work Goals:**](https://hubermanlab.com/) For detailed analytic work (ideally in Phase I 0-9 hours after waking), work in a lower ceiling environment or put on a hoodie or hat to restrict visual field; for Phase II (9-16 hours after waking creative work), work in high ceiling room or outdoors.
+- [Optimize Your Environment to Match Your Work Goals](https://hubermanlab.com/)
+	- For detailed analytic work (ideally in Phase I 0-9 hours after waking), work in a lower ceiling environment or put on a hoodie or hat to restrict visual field; for Phase II (9-16 hours after waking creative work), work in high ceiling room or outdoors.
 
 # February 5, 2022 
 
@@ -97,6 +96,8 @@ title: Daily Notes
 > The Sovereign Individuals of the information economy won’t be warlords, but masters of specialized skills, like entrepreneurship and investment.
 
 > Memorization as a skill will become useless, but the value of quickly learning will increase. We’ll be in a world of abundant information and what you’ll need to know is how to use it.
+
+
 # January 23, 2022 
 
 > Brilliance might appear to win in the short term, but positioning inevitably wins in the end.
