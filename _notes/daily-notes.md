@@ -6,6 +6,124 @@ title: Daily Notes
   <span style="font-weight: bold">NOTES FROM JANUARY '22</span>
  </p>
 
+# February 12, 2022 
+
+==A mind free of passions is a fortress.== - Marcus Aurelius
+
+# February 11, 2022 
+
+### [Founder as Vicitm, Founder as God](https://blakemasters.tumblr.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes) 
+
+- The top players have a paradoxical quality: they’re often extreme insiders or extreme outsiders, rather than being average.
+- Extreme insider-outsiders are hard to pin down: they are x but also not-x. Today they are x, tomorrow they are not-x. They understand that the world demands flexibility but are also committed to particular ideas.
+
+![tumblr_228e3c4d1c8b1ecb501f0ebb0a9eacc0_abdfe4df_500](https://user-images.githubusercontent.com/75190245/158879808-7a169e6b-0a0b-49f5-89b7-8f6d22bdee8f.png)
+
+![tumblr_f4c015d2129e279c994b9845aa87cdb9_d7ad0f2f_500](https://user-images.githubusercontent.com/75190245/158879773-fafbd105-3e4a-4ca4-b350-4730169d388e.png)
+
+- How much of this can be avoided? How do you avoid becoming a sacrificial victim? The simple answer, of course, ==is that if you really don’t want to get killed, you shouldn’t sit on the throne.==
+
+
+# February 9, 2022 
+
+- Today, we're seeing start ups were helping start ups start up. In the Web3 space there are a lot of start ups focused on building tooling for a market that doesn’t necessarily exist yet.
+
+# February 8, 2022
+
+[Ownership and the American Dream](https://www.notboring.co/p/ownership-and-the-american-dream?s=r)
+
+> We used to be a country that celebrated the risk-takers and those who achieved success, because their success showed us what was possible for us, too.
+
+> Make Americans Owners: We need to make America the place where everyone is an owner, and everyone acts like an owner. We need to make it the place where hard work _and_ risk taking are applauded and rewarded.
+
+==We can revive the American Dream by **making ownership an explicit economic strategy.**==
+
+> While DAOs are popular and exciting, critics rightly point out that a DAO’s tokens don’t confer ownership or a right to profit from the success of the DAO. They’re just “governance” tokens, not securities.
+
+# February 7, 2022
+
+- https://techworkerhandbook.org/
+
+> In the future you’re telling a computer what to do or a computer is telling you what to do. You want to be on the right side of that. - Naval
+
+- **[Optimize Your Environment to Match Your Work Goals:**](https://hubermanlab.com/) For detailed analytic work (ideally in Phase I 0-9 hours after waking), work in a lower ceiling environment or put on a hoodie or hat to restrict visual field; for Phase II (9-16 hours after waking creative work), work in high ceiling room or outdoors.
+
+# February 5, 2022 
+
+### Notes via [Blockchain Futures](https://www.iftf.org/fileadmin/user_upload/downloads/blockchain/IFTF_BlockchainFutures_Map.pdf)
+
+- Applying emerging technologies to the work of identifying appropriate talent may enhance an organization’s strategic efforts around diversity and inclusion.
+- Over the next decade, a new organizational structure will emerge that decentralizes decision-making and empowers workers. It will be enabled by a number of technologies including secure distributed ledgers and machine-learning systems.
+- Innovative organizations are experimenting with reputation-weighted decision making, automated profit-sharing payrolls, and open, mutable policies and codes of conduct.
+
+==Over the decade, real-time payroll could extend to real-time profit sharing, triggered the moment the profit is realized by an organization.==
+
+- [Colony](https://colony.io/) envisions a future of self-organizing companies that “run via software not paperwork,” and in which, according to CEO Jack du Rose, “the relationship is with the contract, not with the company.”
+
+> As the Internet of Things is connected to the blockchain via smart contracts—and tokens control the flow of value through it—crowdsourced infrastructures will take advantage of P2P networks to build and govern everything from distributed energy grids to self-managing public services.
+
+🤯 ==Machines and devices own themselves: Trading in cryptocurrencies, increasingly intelligent devices incorporate themselves as DAOs and issue their own IPOs, cutting out even the marginally profitable middlemen DAOs. Some have service code built into them, while others scout DAO software for market advantages.==
+
+- Employers disappear: employment by DAOs not corporations At the intersection of on-demand services and blockchain-based DAOs, service workers find themselves working gigs rather than jobs for organizations that exist in code only, often paid in cryptocurrencies. They may even “gig” for self-owning, self-managing objects like farm machines or even HVAC systems that need servicing.
+- People work for crypto-equity in this world of self-owning, self-managing services, long-term economic stability for individuals or families may depend on their investments in a broad swath of DAOs and machines that return micro-dividends.
+- In a future where smart algorithms can aggregate and analyze data across a wide swath of blockchain transactions, self-incorporating, self-owning, and self-managing services emerge to meet the needs of a global marketplace.
+
+# February 4, 2022 
+
+==How we interpret the world is determined by what we see on a regular basis.==
+
+- Lack of exposure leads to missed opportunities to explore new interests, hobbies, people and places. With the internet, we have the whole world available to us at our fingertips.
+
+# January 31, 2022 
+
+> According to Gurley, Bezos, and Chesky, the marketplaces that can stay the least extractive for the longest amount of time can consolidate the financial activity in their space and create the most value long-term.
+
+# January 28, 2022 
+
+[Top 10 future technologies you’ve definitely never heard of](https://medium.com/predict/top-10-future-technologies-youve-definitely-never-heard-of-6632cebfe052)
+
+# January 25, 2022 
+
+==If the truth is what sets us free, it’s organizations like Google that are keeping us in chains.==
+
+# January 24, 2022 
+
+[The Sovereign Individual](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720)
+
+> Microprocessing will individualize work, away from the standardized work of the assembly line. This will also increase income inequality, since one programmer can write an algorithm worth millions, while another working at an identical laptop could create nothing of value. Resentment between those who create value and those who don’t will increase. As information technology proliferates, low skilled people won’t be taken advantage of anymore, they simply won’t be able to contribute meaningfully to the economy.
+
+> The individual as an ensemble: As our access to information technology grows, we’ll be able to multiply our abilities by manifesting a potentially limitless number of agents to complete tasks for us, whether they’re humans or programs. One person’s potential output will increase exponentially with technology. You could even continue acting after death.
+
+> The Sovereign Individuals of the information economy won’t be warlords, but masters of specialized skills, like entrepreneurship and investment.
+
+> Memorization as a skill will become useless, but the value of quickly learning will increase. We’ll be in a world of abundant information and what you’ll need to know is how to use it.
+# January 23, 2022 
+
+> Brilliance might appear to win in the short term, but positioning inevitably wins in the end.
+
+> There are three things you cannot buy. Fitness: You have to keep fit, whether you’re rich or not. Diet: You cannot pay someone to be on a diet for you. I think that diet is the biggest sacrifice in my life. Then, looking after your soul. No one can possibly treat your soul but you yourself. This is something you can do through culture and philosophy.
+
+
+# January 22, 2022 
+
+==Machines will be the world's future workforce. Who will own them?==
+
+- The centralization of AI is likely to be one of the factors that increases the gap between first world countries and the rest of the planet.
+- Blockchain and AI are the two extreme sides of the technology spectrum: one fostering centralized intelligence on close data platforms, the other promoting decentralized applications in an open-data environment. How can we find an intelligent way to make them work together?
+
+- federated learning
+- [homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)
+- [secure](https://mortendahl.github.io/2017/04/17/private-deep-learning-with-mpc/) [multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation)
+- [zero knowledge proofs](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/) 
+
+# January 20, 2022 
+
+### Social Technology
+
+What is [social technology](https://otherinter.net/)? Social technology is the hardware and software that determine how we organize and collectively live our lives. But it is also the the ideas, knowledge, economics, and institutions that drive culture and sustain societies. And it is the way this knowledge is embedded in the technologies we use.
+
+> It went from [the most talented people focusing on] ads to finance and this is not a good thing. The over-financialization of the world is a bug, not a feature.
+
 # January 19, 2022 
 
 ==Complexity is the enemy of execution.==
@@ -34,10 +152,6 @@ Financialization and a cultural shift away from collective responsibility have l
 
 “All species eventually go extinct” has been almost as reliable a rule through history as “All humans eventually die” has been.
 
-**1) The advent of ASI will, for the first time, open up the possibility for a species to land on the immortality side of the balance beam.**
-
-**2) The advent of ASI will make such an unimaginably dramatic impact that it’s likely to knock the human race off the beam, in one direction or the other.**
-
 ==It may very well be that when evolution hits the tripwire, it permanently ends humans’ relationship with the beam and creates a new world, with or without humans.==
 
 Nick Bostrom describes three ways a superintelligent AI system could function:[6](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html#)
@@ -49,8 +163,6 @@ Nick Bostrom describes three ways a superintelligent AI system could function:[6
 > There are no hard problems, only problems that are hard to a certain level of intelligence. Move the smallest bit upwards [in level of intelligence], and some problems will suddenly move from “impossible” to “obvious.” Move a substantial degree upwards, and all of them will become obvious.[7](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html#)
 
 ASI could even solve our most complex macro issues—our debates over how economies should be run and how world trade is best facilitated, even our haziest grapplings in philosophy or ethics—would all be painfully obvious to ASI.
-
-The difference between a 60-year-old’s body and a 30-year-old’s body is just a bunch of physical things that could be altered if we had the technology.
 
 Eventually, Kurzweil believes humans will reach a point when they’re _entirely_ artificial;[11](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html#) a time when we’ll look at biological material and think how _unbelievably_ primitive it was that humans were ever made of _that_; a time when we’ll read about early stages of human history, when microbes or accidents or diseases or wear and tear could just _kill_ humans against their own will; a time the AI Revolution could bring to an end with the _merging_ of humans and AI.[12](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html#)
 
