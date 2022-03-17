@@ -6,6 +6,72 @@ title: Daily Notes
   <span style="font-weight: bold">NOTES FROM JANUARY '22</span>
  </p>
  
+# March 13, 2022
+
+==The basic problem with our society is a disconnect between consensus reality and actual reality.== We actually have no shortage of natural leaders. But they cannot actually lead us anywhere. They are operating in consensus reality rather than actual reality. Their joysticks are not plugged in. When the consensus is nonsense, sober good sense is nonsense. Nonsense is no use to anyone.
+
+# March 10, 2022
+
+[How To Achieve Your 10-Year Plan In The Next 6 Months](https://medium.com/thrive-global/how-to-achieve-your-10-year-plan-in-the-next-6-months-f8c1cc54888e#:~:text=Get%20really%2C%20really%20good%20at,you%20from%20achieving%20your%20goals.)
+
+> How can you achieve your 10 year plan in the next 6 months? — Peter Thiel
+
+- As research has shown, only 16% of creative ideas happen while you’re sitting at work. Most will happen while you’re relaxing, commuting, traveling, spending time present with loved ones, etc.
+
+- Reading books should stimulate new ways of thinking and ACTING in the world. If you’re not acting differently, you’re not actually learning, and thus not changing. Your behavior is what shapes circumstance, confidence, personality, and relationships.
+- For most people, learning has become an escape from doing. Filling your head with useless information is the opposite of hard-won wisdom and understanding, which can only happen via the application of knowledge and re-application based on experience in the real world.
+
+==Do not let preparation become procrastination.==
+
+### The internet is more distracting and hard to evade than a Las Vegas casino.
+
+> If you only had 3 months left to live, what would your goals be?
+
+- Every new day, you are closer to the day you die. Was your last day worth it? Getting you closer to your purpose for being this lifeform. 
+
+- If you have a true goal, something that is extremely valuable to you, and that you believe to be very important, ONLY THEN can you begin to properly value and use your time.
+
+- As Ryan Holiday has said, _“This is a fundamental irony of most people’s lives. They don’t quite know what they want to do with their lives. Yet they are very active.”_
+
+### Get very clear on 
+-   What you believe
+-   And what you should do because of that belief
+-   And how to most effectively accomplish that belief
+
+- If you had 6 months to live, how much of that time would you spend on Twitter?
+- If you had 6 months left to live, would it be difficult to wake up at 5AM?
+- Would it be hard to “find your voice” or market your ideas? Not at all. If you believed you were doing something very important, you’d shout from the rooftops. You wouldn’t hold back and restrain for fear of what others think.
+
+> Be willing to experiment, to try new things, and to fail.
+
+# March 9, 2022
+
+==People often strive for greatness by imitating greatness, when usually great artists are just utterly themselves.==
+
+# March 5, 2022 
+
+Are we witnessing an increase in ideological conformity and polarization in society because we no longer believe in religion or God? To fill the void of meaning? We are gaining power but losing meaning. Humans believe and coordinate based on stories, and since the old stories are fading we are anxiously searching for new ones. 
+
+# March 3, 2022  
+
+[Why You're a Christian](https://perell.com/essay/why-youre-christian/) by David Perell
+
+- Religious or not, every Westerner bathes in the waters of Christian ideology.
+- We should study religion not to dogmatically accept faith, but to understand the foundations of our worldview.
+
+> …where we’ll binge-read biographies about some hot new tech CEO while skipping the one about the most important figure in Western history: Jesus Christ.
+
+- The book of I Corinthians says that the truth of Christianity hinges upon the resurrection’s historical reality — meaning that the story of Christ dying on the cross and coming back to life must be literally true.
+- Christ was either the Son of God or a madman.
+
+> Christianity is the invisible frame around modern thought.
+
+> They look down on people who inherit religion from their parents, but unquestioningly inherit ideas from the culture in which they swim and the media they consume.
+
+# March 2, 2022 
+
+- You do not need more ideas, you need to execute on the ideas you have. Do not suffer from partial execution syndrome.
+- There does not ALWAYS have to be an endgame. I always immediately go to, "well how is this going to get me to X?" You can do things just because you enjoy them and you're curious about them. In fact, often times the best projects start from  following a curiosity.
  
 # March 1, 2022
 
@@ -19,7 +85,7 @@ Building your network, your audience, and your ideas will be something you’ll 
 
 Generally, I believe *words* are not what I have to give the world. 
 
-I'll write if it's something worth writing about, which is to say a neglected or unconventional topic. A lot of writing is hive mind, very few new ideas, very few revelations. More noise than signal. I'll speak when I think I have something new or interesting to say. 
+I'll write if it's something worth writing about, which is to say a neglected or unconventional topic. A lot of writing is hive mind, very few new ideas, very few revelations. More noise than signal. I'll speak when I think there's something new or interesting to say. 
 
 
 # February 28, 2022
@@ -121,7 +187,7 @@ I have been reading annual shareholder letters from incredible CEO's like Jeff B
 
 # February 9, 2022 
 
-- Today, we're seeing start ups were helping start ups start up. In the Web3 space there are a lot of start ups focused on building tooling for a market that doesn’t necessarily exist yet.
+- Today, we're seeing start ups focused on helping start ups start up. In the Web3 space there are a lot of start ups focused on building tooling for a market that doesn’t necessarily exist yet.
 
 # February 8, 2022
 
@@ -137,9 +203,9 @@ I have been reading annual shareholder letters from incredible CEO's like Jeff B
 
 # February 7, 2022
 
-- https://techworkerhandbook.org/
+- [Tech Worker Handbook](https://techworkerhandbook.org/)
 
-> In the future you’re telling a computer what to do or a computer is telling you what to do. You want to be on the right side of that. - Naval
+==In the future you’re telling a computer what to do or a computer is telling you what to do. You want to be on the right side of that.== - Naval
 
 - [Optimize Your Environment to Match Your Work Goals](https://hubermanlab.com/)
 	- For detailed analytic work (ideally in Phase I 0-9 hours after waking), work in a lower ceiling environment or put on a hoodie or hat to restrict visual field; for Phase II (9-16 hours after waking creative work), work in high ceiling room or outdoors.
