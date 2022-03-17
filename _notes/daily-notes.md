@@ -5,6 +5,103 @@ title: Daily Notes
 <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM JANUARY '22</span>
  </p>
+ 
+ 
+# March 1, 2022
+
+[**Writing: The World’s Best Networking Activity**](https://andrewchen.co/professional-blogging/)
+
+Writing is the most scalable professional networking activity – stay home, don’t go to events/conferences, and just put ideas down.
+
+Building your network, your audience, and your ideas will be something you’ll want to do over your entire career. Think of your writing like a multi-decade project.
+
+---
+
+Generally, I believe *words* are not what I have to give the world. 
+
+I'll write if it's something worth writing about, which is to say a neglected or unconventional topic. A lot of writing is hive mind, very few new ideas, very few revelations. More noise than signal. I'll speak when I think I have something new or interesting to say. 
+
+
+# February 28, 2022
+
+I have been reading annual shareholder letters from incredible CEO's like Jeff Bezos of Amazon and Warren Buffet of Berkshire Hathaway.
+
+[Amazon Annual Letters](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx)
+
+- Take responsibility and execute on the ideas you have.
+- This strategy is not without risk: it requires serious investment and crisp execution against established franchise leaders.
+- It's All About the Long Term
+- We first measure ourselves in terms of the metrics most indicative of our market leadership: customer and revenue growth, the degree to which our customers continue to purchase from us on a repeat basis, and the strength of our brand.
+- We will continue to focus relentlessly on our customers.
+- We will continue to focus on hiring and retaining versatile and talented employees, and continue to weight their compensation to stock options rather than cash.
+- We know our success will be largely affected by our ability to attract and retain a motivated employee base, each of whom must think like, and therefore must actually be, an owner.
+
+==Give the world something it wants, but does not yet know how to get; think Amazon, Uber, Airbnb.==
+
+- Setting the bar high in our approach to hiring has been, and will continue to be, the single most important element of Amazon.com's success.
+
+==The team you build is the company you build.==
+
+- …but we still have so much to learn. Though we are optimistic, we must remain vigilant and maintain a sense of urgency.
+- We intend to build the world’s most customer-centric company.
+- I constantly remind our employees to be afraid, to wake up every morning terrified. Not of our competition, but of our customers. Our customers have made our business what it is, they are the ones with whom we have a relationship, and they are the ones to whom we owe a great obligation.
+- We must be committed to constant improvement, experimentation, and innovation in every initiative.
+
+[Berkshire Hathaway Annual Letter](https://www.berkshirehathaway.com/letters/2021ltr.pdf)
+
+- Berkshire Hathaway pays roughly $9 million daily to the Treasury.
+- Long-term interest rates that are low push the prices of all productive investments upward, whether these are stocks, apartments, farms, oil wells, whatever.
+- BNSF will be a key asset for Berkshire and our country a century from now.
+- ==I have urged that [students] seek employment in (1) the field and (2) with the kind of people they would select, if they had no need for money.==
+
+# February 25, 2022
+
+> In many industries where giant data sets simply don’t exist, I think the focus has to shift from big data to good data. Having 50 thoughtfully engineered examples can be sufficient to explain to the neural network what you want it to learn. - Andrew Ng
+
+# February 23, 2022
+
+- We are all filled with experiences and skills and knowledge and creativity, yet the poorly designed systems of today do a suboptimal job of cultivating these gifts. 
+- We need a new social operating system.
+
+# February 22, 2022
+
+[Oura](https://ouraring.com/)
+
+[Inside Tracker](https://www.insidetracker.com/)
+
+[Levels](https://www.levelshealth.com/)
+
+[Eight Sleep](https://www.eightsleep.com/)
+
+
+# February 21, 2022 
+
+- All languages can be understood as a form of thought-control.
+- Alien life probably won't be anything like our own.
+
+# February 19, 2022 
+
+==Ideas have to pass through the very narrow window of human language, and often all the nuance is lost.==
+
+> The world is not an automaton which continues deterministically based on current realities. Betting against invention and innovation has, on the whole, turned out to be a bad bet over the course of human history.
+
+# February 16, 2022 
+
+- What’s the hardest you’ve ever worked on something?
+    
+- How many hours were you working a week?
+    
+- Why did you work so hard? Why did you care?
+    
+- When were you the most unmotivated in your life?
+    
+- What’s the thing you’re the most proud of?
+    
+- Do you think it was worth it?
+
+# February 13, 2022 
+
+- Governments and corporations play a role, but if they were doing everything correctly we would not have startups. 
 
 # February 12, 2022 
 
