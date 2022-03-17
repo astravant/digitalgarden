@@ -3,7 +3,7 @@ title: Daily Notes
 ---
 
 <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
-  <span style="font-weight: bold">NOTES FROM JANUARY '22</span>
+  <span style="font-weight: bold">NOTES FROM MARCH '22</span>
  </p>
  
 # March 13, 2022
@@ -87,6 +87,9 @@ Generally, I believe *words* are not what I have to give the world.
 
 I'll write if it's something worth writing about, which is to say a neglected or unconventional topic. A lot of writing is hive mind, very few new ideas, very few revelations. More noise than signal. I'll speak when I think there's something new or interesting to say. 
 
+<p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
+  <span style="font-weight: bold">NOTES FROM FEBRUARY '22</span>
+ </p>
 
 # February 28, 2022
 
@@ -235,6 +238,10 @@ I have been reading annual shareholder letters from incredible CEO's like Jeff B
 ==How we interpret the world is determined by what we see on a regular basis.==
 
 - Lack of exposure leads to missed opportunities to explore new interests, hobbies, people and places. With the internet, we have the whole world available to us at our fingertips.
+
+<p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
+  <span style="font-weight: bold">NOTES FROM JANUARY '22</span>
+ </p>
 
 # January 31, 2022 
 
