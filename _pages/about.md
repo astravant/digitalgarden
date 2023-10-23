@@ -8,9 +8,7 @@ Hi, Brandon Spiess here.
 
 Hi, 
 
-Please connect if you are interested in:
-
-I'm really interested in the below areas - if they're things you like to chat about, please message me. 
+Interested in the below areas? If they're things you like to chat about, please message me. 
 
 - Genomics
 - Robotics
@@ -26,13 +24,4 @@ https://www.goodreads.com/user/show/160013150-brandon-s
 
 brandon[dot]product [at] gmail [dot] com
 
-I focus on the intersection of artificial intelligence, decentralized systems, and social technology. 
-
-I have interests ranging across biology, economics, technology, longevity, crypto, and others.
-
-
-
-
-Follow me on [Twitter](https://twitter.com/brandonspiess)
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/brandonspiess/)
+Pecca fortiter, sed crede fortius.
