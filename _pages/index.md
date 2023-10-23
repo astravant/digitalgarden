@@ -8,24 +8,25 @@ Hi, Brandon Spiess here.
 
 Interested in the below areas? If they're things you like to chat about, please message me. 
 
-- Genomics
-- Robotics
-- Biology, bioengineering, biomanufacturing, biotechnology -- at any interest level
+- Bioengineering, biomanufacturing, biotechnology -- at any interest level
 - Bio-defense / Bio-offense
 - Neuroscience (behavioral, cognitive, molecular)
-- Brain-computer interfaces
+- Brain-Computer Interfaces
 - Political Philosophy
+- Genomics
+- Robotics
 - Theology (Historical, Biblical, etc.)
 - American Dynamism
-- Genetic engineering (DNA & RNA)
-- Neural control & engineering
-- Techno-Optimism / e/acc 
+- Genetic Engineering (DNA & RNA)
+- Neural Control & Engineering
+- Techno-Optimism / Effective Accelerationism
 - Stem cells/iPSCs
-- Science fiction / biographies / reading in general
 
-*My email address may change without notice to reduce spam-email, etc.
 
 brandon[dot]product [at] gmail [dot] com
+
+*My email address may change without notice to reduce spam-email, etc.*
+
 
 ## Recent Reading
 
