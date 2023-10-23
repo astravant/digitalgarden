@@ -11,22 +11,17 @@ Interested in the below areas? If they're things you like to chat about, please 
 - Bioengineering, biomanufacturing, biotechnology -- at any interest level
 - Bio-defense / Bio-offense
 - Neuroscience (behavioral, cognitive, molecular)
-- Brain-Computer Interfaces
-- Political Philosophy
-- Genomics
-- Robotics
-- Theology (Historical, Biblical, etc.)
-- American Dynamism
 - Genetic Engineering (DNA & RNA)
 - Neural Control & Engineering
-- Techno-Optimism / Effective Accelerationism
 - Stem cells/iPSCs
-
+- Political Philosophy
+- Theology (Historical, Biblical, etc.)
+- American Dynamism
+- Techno-Optimism / Effective Accelerationism
 
 brandon[dot]product [at] gmail [dot] com
 
 *My email address may change without notice to reduce spam-email, etc.*
-
 
 ## Recent Reading
 
