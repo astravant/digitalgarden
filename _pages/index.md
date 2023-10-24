@@ -6,6 +6,15 @@ permalink: /
 ---
 Hi, Brandon Spiess here.
 
+Hey there, 
+
+Howdy, 
+
+Hi there, 
+
+Greetings, 
+
+
 Interested in the below areas? If they're things you like to chat about, send me a note. 
 
 - Bioengineering, biomanufacturing, biotechnology -- at any interest level
