@@ -4,12 +4,8 @@ title: Home
 id: home
 permalink: /
 ---
-Greetings, Brandon Spiess here. 
 
 Hi, Brandon Spiess here.
-
-Greetings, 
-
 
 Interested in the below areas? If they're things you like to chat about, send me a note. 
 
