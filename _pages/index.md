@@ -19,7 +19,7 @@ Interested in the below areas? If they're things you like to chat about, send me
 - American Dynamism
 - Techno-Optimism / Effective Accelerationism
 
-brandon[dot]product [at] gmail [dot] com
+brandon [dot] product [at] gmail [dot] com
 
 *My email address may change without notice to reduce spam-email, etc.*
 
