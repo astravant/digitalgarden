@@ -6,8 +6,6 @@ Information is something like magic. It determines how well economies grow or fa
 
 Information shapes our understanding of ourselves and how we relate to each other, it defines who we are as a species. The flow of information is essential to living creatures, if our bodies were to halt the transfer of data, we would cease to exist. 
 
-The universe is flows of data from one form to another (much like the law of conservation of energy) and organisms are biochemical algorithms manifested in flesh and blood.  
-
 Yet for all its power, information remains a mystery: Information is scattered, inconsistent, and incomplete.
 
 ## 02
@@ -25,3 +23,5 @@ If life is the movement of information, and if we think that life is good, it fo
 The governance structures, bureaucracies, and business models that serve us today are not going to cope with the issues in a world increasingly overrun by data. The volume of data is increasing exponentially, like a library of books multiplying with each turn of the page, or like trillions of sensors scattering data points across the digital landscape, creating a data deluge that traditional systems simply cannot keep up with.
 
 We must design new systems that increase the flow and output of information. The more connected we become, the faster ideas spread, and the more sophisticated our tools for manipulating information become. One thing is clear: Nature gives greater value and support to systems, individuals, and societies that contribute most heavily and efficiently to data processing.
+
+Look at how things flow, ask how they can flow better.
