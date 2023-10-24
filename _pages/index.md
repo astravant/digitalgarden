@@ -6,12 +6,6 @@ permalink: /
 ---
 Hi, Brandon Spiess here.
 
-Hey there, 
-
-Howdy, 
-
-Hi there, 
-
 Greetings, 
 
 
