@@ -7,7 +7,7 @@ permalink: /
 
 Hi, Brandon Spiess here.
 
-Interested in the below areas? If they're things you like to chat about, send me a note. 
+Interested in the areas below? If they're things you like to chat about, send me a note. 
 
 - Bioengineering, biomanufacturing, biotechnology -- at any interest level
 - Bio-defense / Bio-offense
