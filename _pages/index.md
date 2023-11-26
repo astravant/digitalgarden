@@ -11,7 +11,6 @@ Interested in the areas below? If they're things you like to chat about, send me
 
 - Bioengineering, biomanufacturing, biotechnology -- at any interest level
 - Bio-defense / Bio-offense
-- Neuroscience (behavioral, cognitive, molecular)
 - Genetic Engineering (DNA & RNA)
 - Neural Control & Engineering
 - Stem Cells / iPSCs
