@@ -7,19 +7,14 @@ permalink: /
 
 Hi, Brandon Spiess here.
 
-Interested in the areas below? If they're things you like to chat about, send me a note. 
+Interested in the areas below? If they're things you like to chat about, send me a note with your thoughts or questions. 
 
 - AI Personhood & Rights Expansion
-- Multi-Species Economics & AI Commerce
-- Digital Liberty Principles & Frameworks
 - Digital Sovereignty & Machine-Readable Law
-- Constitutional Frameworks for Artificial Intelligence
 - On-Chain Legal Systems
 - Bioengineering, biomanufacturing, biotechnology -- at any interest level
-- Bio-defense / Bio-offense
 - Genetic Engineering (DNA & RNA)
 - Neural Control & Engineering
-- Stem Cells / iPSCs
 - Political Philosophy
 - Theology (Historical / Biblical)
 - American Dynamism
