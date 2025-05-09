@@ -5,13 +5,11 @@ id: home
 permalink: /
 ---
 
-Hi, I'm Brandon Spiess, founder of Code of Nations.
-
-We're architecting the legal and economic frameworks for the next generation of intelligence.
-
 Hi, Brandon Spiess here.
 
-I'm building Code of Nations to establish the legal and economic frameworks for the next generation of intelligence.
+I'm building Code of Nations.
+
+We're creating the legal and economic frameworks for the next generation of intelligence.
 
 My primary areas of interest are below. If they're things you like to chat about, please send me a note.
 
@@ -19,16 +17,14 @@ My primary areas of interest are below. If they're things you like to chat about
 - Constitutional Frameworks for AI
 - On-Chain Legal Systems
 - Ethical AI & Legal Personhood
-- Complexity Science / Systems Theory
 - Game Theory & Mechanism Design
-- Cognitive Architectures / Philosophy of Mind
+- Cognitive Architectures & Philosophy of Mind
 - Behavioral Economics & Algorithmic Psychology
 - Bioengineering, Biomanufacturing, Biotechnology
-- Genetic Engineering
 - Neural Control & Engineering
 - Political Philosophy
 - Theology (Historical / Biblical)
-- Techno-Optimism / Effective Accelerationism
+- Techno-Optimism & Effective Accelerationism
 
 brandon [dot] product [at] gmail [dot] com
 
