@@ -5,15 +5,15 @@ id: home
 permalink: /
 ---
 
-Hi, I'm Brandon Spiess, founder of Code of Nations. We're architecting the legal and economic frameworks for the next generation of intelligence.
+Hi, I'm Brandon Spiess, founder of Code of Nations.
+
+We're architecting the legal and economic frameworks for the next generation of intelligence.
 
 Hi, Brandon Spiess here.
 
 I'm building Code of Nations to establish the legal and economic frameworks for the next generation of intelligence.
 
-Interested in the areas below? If they're things you like to chat about, please send me a note.
-
-My primary areas of interest are below. If these resonate with you, I'd welcome a conversation.
+My primary areas of interest are below. If they're things you like to chat about, please send me a note.
 
 - Digital Sovereignty & Machine-Readable Law
 - Constitutional Frameworks for AI
@@ -29,8 +29,6 @@ My primary areas of interest are below. If these resonate with you, I'd welcome 
 - Political Philosophy
 - Theology (Historical / Biblical)
 - Techno-Optimism / Effective Accelerationism
-
-If these topics align with your interests, I welcome the opportunity to connect.
 
 brandon [dot] product [at] gmail [dot] com
 
