@@ -33,6 +33,7 @@ brandon [dot] product [at] gmail [dot] com
 ## Recent Reading
 
 - [Energy and Civilization: A History](https://a.co/d/dztFJca) by Vaclav Smil
+- [The History of Western Philosophy](https://a.co/d/3t0uKnS) by Bertrand Russell
 - [A Theater Of Envy: William Shakespeare](https://a.co/d/3ReJnCv) by Rene Girard
 - [The Island of Dr. Moreau](https://a.co/d/3YolLIb) by H.G. Wells
 - [Evening in the Palace of Reason](https://a.co/d/89bwxKK) by James Gaines
@@ -46,9 +47,7 @@ brandon [dot] product [at] gmail [dot] com
 - [Where Is My Flying Car?: A Memoir of Future Past](https://www.goodreads.com/en/book/show/42036377) by J. Storrs Hall
 - [Social Acceleration: A New Theory of Modernity](https://a.co/d/gbMQN1e) by Hartmut Rosa
 - [The Power of the Powerless](https://a.co/d/5t0mluD) by Václav Havel
-- [The Making of the Atomic Bomb](https://a.co/d/jjXpvvs) by Richard Rhodes
 - [Brunelleschi's Dome: How a Renaissance Genius Reinvented Architecture](https://a.co/d/7lpw4bx) by Ross King
-
 
 
 <style>
