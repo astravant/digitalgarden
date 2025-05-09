@@ -17,7 +17,6 @@ My primary areas of interest are below. If they're things you like to chat about
 - Constitutional Frameworks for AI
 - Ethical AI & Legal Personhood
 - On-Chain Legal Systems
-- Cognitive Architectures
 - Game Theory & Mechanism Design
 - Bioengineering, Biomanufacturing, Biotechnology
 - Neural Control & Engineering
