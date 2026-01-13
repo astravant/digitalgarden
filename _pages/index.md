@@ -9,7 +9,7 @@ Hi, Brandon Spiess here.
 
 Founder & CEO, Code of Nations
 
-We build legal infrastructure that makes law machine-readable—so governments can govern faster and AI systems can operate under clear, verifiable rules.
+We're building the legal infrastructure layer for autonomous systems.
 
 My primary areas of interest are below. If they're things you like to chat about, please send me a note.
 
