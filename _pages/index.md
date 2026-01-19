@@ -18,7 +18,6 @@ Some things I think about:
 - Oceanography & Maritime Systems
 - Mechanism Design & Game Theory
 - Synthetic Biology & Biomanufacturing
-- History of institutions
 - Political Philosophy
 - Historical Theology
 
