@@ -19,7 +19,6 @@ Some things I think about:
 - Mechanism Design & Game Theory
 - City-States & Special Economic Zones
 - Energy Systems & Infrastructure
-- Maritime Strategy & Trade Routes
 - Synthetic Biology & Biomanufacturing
 - Geoengineering & Climate Intervention
 - Philosophy of Mind & Consciousness
