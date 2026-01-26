@@ -27,7 +27,7 @@ Some things I think about:
 
 brandon [at] codeofnations [dot] org
 
-## Recent Reading
+### Recent Reading
 
 - [Energy and Civilization: A History](https://a.co/d/dztFJca) by Vaclav Smil
 - [The History of Western Philosophy](https://a.co/d/3t0uKnS) by Bertrand Russell
