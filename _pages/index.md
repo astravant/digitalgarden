@@ -13,7 +13,6 @@ Some things I think about:
 - Machine-Readable Law
 - AI Governance & Regulatory Policy
 - Institutional Design for AI
-- History of Corporations & Legal Fictions
 - Mechanism Design & Game Theory
 - City-States & Special Economic Zones
 - Energy Systems & Infrastructure
