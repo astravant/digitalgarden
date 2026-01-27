@@ -4,11 +4,9 @@ title: Home
 id: home
 permalink: /
 ---
-Founder & CEO, Code of Nations
+Founder & CEO, [Code of Nations](https://www.codeofnations.org/). Building legal infrastructure for the AI economy.
 
-Building legal infrastructure for the AI economy.
-
-Previously: early team at [Enhanced Games](https://www.enhanced.com/) backed by Peter Thiel and Balaji Srinivasan.
+Previously, early team at [Enhanced Games](https://www.enhanced.com/) backed by Peter Thiel and Balaji Srinivasan.
 
 Some things I think about:
 
@@ -23,8 +21,6 @@ Some things I think about:
 - Geoengineering & Climate Intervention
 - Philosophy of Mind & Consciousness
 - Political Philosophy (Ancients & Moderns)
-
-brandon [at] codeofnations [dot] org
 
 ### Recent Reading
 
@@ -44,6 +40,8 @@ brandon [at] codeofnations [dot] org
 - [Where Is My Flying Car?: A Memoir of Future Past](https://www.goodreads.com/en/book/show/42036377) by J. Storrs Hall
 - [On Power: The Natural History of Its Growth](https://a.co/d/6Y0EBXa) by Bertrand De Jouvenel
 - [Social Acceleration: A New Theory of Modernity](https://a.co/d/gbMQN1e) by Hartmut Rosa
+
+brandon [at] codeofnations [dot] org
 
 <style>
   .wrapper {
