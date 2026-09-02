@@ -4,13 +4,9 @@ title: Home
 id: home
 permalink: /
 ---
-Founder & CEO, [Code of Nations](https://www.codeofnations.org/) building legal infrastructure for the AI economy.
+I'm building [Code of Nations](https://www.codeofnations.org/) and [Nell](nell.engineering).
 
-I'm building [Nell](nell.engineering) and [Code of Nations](https://www.codeofnations.org/). 
-
-Previously, early team at [Enhanced Games](https://www.enhanced.com/). 
-
-Previously, early team at [Enhanced Games](https://www.enhanced.com/) backed by Peter Thiel and Balaji Srinivasan.
+Previously, early team at [Enhanced Games](https://www.enhanced.com/).
 
 Some things I think about:
 
