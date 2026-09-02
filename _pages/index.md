@@ -4,7 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-I'm building [Code of Nations](https://www.codeofnations.org/) and [Nell](nell.engineering).
+I'm building Code of Nations and Nell. 
 
 Previously, early team at [Enhanced Games](https://www.enhanced.com/).
 
